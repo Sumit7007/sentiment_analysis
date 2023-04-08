@@ -1,0 +1,177 @@
+SPEAKER_00
+0.0--10.5
+ Hi, welcome and thank you for calling the Chase Ultimate Rewards Travel Center. My name is Joe and I'll be your travel advisor for today. May I have your full name please?
+SPEAKER_01
+11.35--12.5
+ Joshua Mercy tell!
+SPEAKER_00
+13.15--16.0
+ Hi Mr. Narciso, how are you doing today?
+SPEAKER_01
+16.95--17.9
+ I'm great, how are you?
+SPEAKER_00
+18.25--57.5
+ I'm doing fine. Thank you so much for asking. Can you please verify to me your billing zip code? Thank you so much. And just to inform you that this call is monitored or recorded, can you also provide a best contact number that we can call if in case this call gets disconnected? Okay, thank you so much. And are you giving us an authorization to call you if in case this call gets disconnected? Thank you so much, Mr. Narciso. And are you calling about existing booking or a new booking?
+SPEAKER_01
+57.5--63.7
+ Yes, I am. The flight was canceled. It's not showing up canceled on on chase and I need to report
+SPEAKER_02
+64.75--65.5
+ Okay.
+SPEAKER_00
+65.95--70.7
+ When did you find out that the reservation is cancelled?
+SPEAKER_01
+71.95--74.2
+ Ah, this morning. That's why I'm sorry.
+SPEAKER_00
+74.2--81.2
+ Okay. And can you please provide the trip ID so I can double check it?
+SPEAKER_01
+83.15--87.5
+ It's a Southwest flight. You can't see it on my phone.
+SPEAKER_00
+87.5--93.9
+ Okay, Southwest light. Is it applied? Go ahead.
+SPEAKER_01
+93.9--95.3
+ Is that what you want?
+SPEAKER_00
+95.55--97.2
+ Yes sir, please, if you do have...
+SPEAKER_01
+97.85--102.4
+ for November uniformed pop shot by six.
+SPEAKER_00
+103.05--155.2
+ Thank you so much and upon checking here Mr Narciso that you are under Chase Sapa Reserve with 34,080 ultimate reward points and the tip ID that you gave earlier it is a flight reservation under your name for Ms Alexandra Schaeffer Heller and it is a flight by Southwest Airlines that's supposed to leave from DCA or from Washington to Salt Lake City this 28th of December which is tomorrow and it will be leaving 6 a.m. from Washington via Southwest Airlines flight 1702 and it is going to be arrive in Salt Lake City 10 20 a.m. is this the correct reservation?
+SPEAKER_01
+156.05--157.6
+ Yes, that is the correct reservation.
+SPEAKER_00
+158.05--164.8
+ and you want it to be cancelled. I'm sorry. Go ahead. Yeah.
+SPEAKER_01
+164.8--168.5
+ refunded or something I need to revoke this that's why this is canceled right now.
+SPEAKER_00
+168.95--178.5
+ Okay, the flight was cancelled. Let me just check this one for 2-3 minutes. Is it okay with you? Just stand on.
+SPEAKER_01
+178.501--184.6
+ The reason that I wasn't notified it was canceled, like I would think that you guys notified me and I's golf is canceled.
+SPEAKER_00
+184.6--203.1
+ We do apologize for that one. And the reason why most of the flight has been canceled is the weather condition. But they should notify you. And who is the one who canceled your reservation? Is it the airline?
+SPEAKER_01
+203.1--210.7
+ It's the airline, yes. If I go southwest.com, if I go and check this flight status, they say cancelled. So this flight is cancelled.
+SPEAKER_00
+210.7--225.4
+ Okay, so the flight is cancelled. Okay, let me just check some information here on my end. And if it's allowed, you want to cancel this one and you revoke the new one.
+SPEAKER_01
+225.4--232.6
+ Well, the flight is canceled. I want my money back either way. Okay. Let me just ask... I want to cancel the flight. I just want my money back.
+SPEAKER_00
+232.6--240.7
+ Okay for the refund okay I do understand that I'm Mr Narciso please stand the line for two to three minutes thank you
+SPEAKER_02
+241.85--364.8
+ You are on hold. You are on hold. You are on hold. You are on hold. You are on hold.
+SPEAKER_00
+470.25--475.3
+ Hello, thank you so much for your patience. I'm really sorry about the hold Mr. Narcisa.
+SPEAKER_01
+475.95--476.0
+ you
+SPEAKER_02
+476.05--476.2
+ you
+SPEAKER_00
+477.95--496.5
+ Okay, isa reservation, thank you for understanding. Isa reservation sa mga panggunan namin, it is still confirmed that there is no cancellation that's been made, but it was canceled by the airline, so it will be handled by our helpless department. And I have to transfer your call to them directly.
+SPEAKER_00
+497.25--503.6
+ Any reservation that you have a question aside from this one Mr Narciso?
+SPEAKER_01
+503.95--506.3
+ I need to book another flight to get that.
+SPEAKER_00
+506.3--510.8
+ Yes, they will help you about this one. And you will...
+SPEAKER_01
+510.8--517.1
+ of the flight with points? Yes, yes. I want to use either my points or I have a credit with United.
+SPEAKER_00
+517.85--526.1
+ Actually, it will be accredited with us, but you have to book it for the same airline and same passenger.
+SPEAKER_00
+527.45--527.5
+ you
+SPEAKER_01
+527.5--531.6
+ But how, why is that? It's not my fault, but you guys, you're taking advantage of it. Yes, yes, yes.
+SPEAKER_00
+531.6--551.5
+ We do apologize for the inconvenience, Mr. Narciso, but here on our end we cannot do anything. But if the airline is canceling the flight, but we can help you to contact them directly. That's why I'm going to transfer your call to that department.
+SPEAKER_01
+553.65--554.2
+ Okay.
+SPEAKER_02
+554.55--555.7
+ I need to fucking-
+SPEAKER_01
+555.7--560.7
+ Yes, definitely.
+SPEAKER_01
+561.85--564.2
+ Gotcha. A United flight to get there.
+SPEAKER_01
+564.95--565.6
+ Yes.
+SPEAKER_00
+565.6--570.3
+ United Flights But this one...
+SPEAKER_01
+570.3--573.4
+ of a United flight. flames doing not.
+SPEAKER_00
+573.401--582.5
+ Actually, Sir Mercy, this flight is by a Southwest Airlines, so you have to make a...
+SPEAKER_01
+582.501--603.9
+ I don't care about Southwest. There are no Southwest flights. Southwest has canceled every flight for the next four days, they said. They put that out. They canceled every flight. I need to get to Salt Lake City, so I want to book a United flight through Chase. I have a credit with United that I would like to use with you guys to book the flight.
+SPEAKER_00
+605.35--607.1
+ So right now what?
+SPEAKER_01
+607.1--620.0
+ I don't care about Southwest. I don't care about this. I know you're going to transfer to the Health Test, but before you transfer me, I was hoping you could help me book a flight up there using my United credits that I have with Chase, that you have on nothing.
+SPEAKER_00
+620.55--627.2
+ Okay. Let me just check. Yes, yes, I do understand that. Just give me a minute.
+SPEAKER_02
+629.45--631.2
+ You are on hold.
+SPEAKER_01
+633.45--635.5
+
+SPEAKER_00
+647.95--710.1
+ Hi, Mr. Narciso, sorry about the holes. Okay right now, upon checking, thank you so much for your understanding. And upon checking here on our end, it can be processed also in the health department for that one. So it will be a one process, it will be a one assistance that you will encounter in time, okay? And for the additional request, Mr. Narciso, I have to transfer and please note that if the expected wait time is five minutes, you may be offered a callback. If you choose to receive a callback versus waiting for the next available agent, please follow the prompts provided to them, the trip ID that you gave me earlier, okay? Just stay on the line, I'm going to transfer a call to them directly and stay safe. Thank you so much.
+SPEAKER_01
+710.95--712.2
+ Thank you. Have a happy New Year.
+SPEAKER_00
+712.55--714.8
+ Have a happy holiday, happy new year.
+SPEAKER_02
+715.95--716.9
+ You are on hold.
+SPEAKER_00
+728.95--732.7
+
+SPEAKER_02
+736.45--742.4
+ Please listen carefully to each menu as options have changed for many of the locations and options on your card.

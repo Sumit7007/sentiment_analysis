@@ -1,0 +1,249 @@
+SPEAKER_01
+3.2--9.7
+ Thanks for calling Fresh Citizens Rewards. My name is Monica. May I have your first and last name please?
+SPEAKER_00
+11.35--20.2
+ My name is Cheryl. It's a C-H-E-R-Y-L in POE. P-O-E, like Edgar Allen.
+SPEAKER_01
+22.15--24.0
+ Hello, Mrs. Poe. How are you doing today?
+SPEAKER_00
+25.45--25.9
+ Sure.
+SPEAKER_01
+26.75--39.1
+ That's great to hear. And I must advise all calls are monitored and recorded. And may I have your 16-digit card number to access the account, please.
+SPEAKER_00
+40.85--51.4
+ OK. It's 4118709867720531.
+SPEAKER_01
+54.65--56.8
+ Thank you very much for that and the zip code.
+SPEAKER_00
+59.75--65.3
+ The code is 24015.
+SPEAKER_01
+68.35--70.8
+ He said that was 24015.
+SPEAKER_00
+72.35--72.7
+ Correct.
+SPEAKER_01
+74.15--108.1
+ Thank you. And bear with me one moment, Ms. Poe, while I get the account pulled up. Okay, it is, I do have that pulled up here, and Ms. Poe, can I have you verify the address and phone number associated with the account?
+SPEAKER_00
+109.85--124.8
+ It is 1525 West Seldow Drive SW Roanoke, VA 24015.
+SPEAKER_01
+126.35--133.6
+ I apologize. So it sounds like you're either on speaker or something else. I can't quite hear you.
+SPEAKER_00
+135.05--141.6
+ Okay, hold on, maybe I'll just put it off speaker. Okay, all right, can you hear me now?
+SPEAKER_01
+141.75--145.7
+ That's better. And what was what's the address?
+SPEAKER_00
+147.65--159.0
+ 1525 West Seldow Drive, SW Roanoke, VA 24015
+SPEAKER_01
+159.35--164.9
+ Okay, thank you very much for that and the phone number.
+SPEAKER_00
+164.9--190.3
+ And this is a trick question because my number is 540-537-4142. But you may want my husband's. We've taken it off of our home account. You know we keep, we try and get things off of our house number. But was that, did I pass the test? Will that get me in?
+SPEAKER_01
+190.45--194.1
+ No, I have a different phone number listed on the account.
+SPEAKER_00
+195.25--214.4
+ Okay, so my husband's is 540-537-1967 is his cell. If that's not the one, it still hasn't been changed to take off our cell number, I mean our house number, which we hardly use. Did that go through?
+SPEAKER_01
+214.85--218.5
+ No, ma'am. It may be your house number still. Okay.
+SPEAKER_00
+218.5--226.2
+ 540 345 3548
+SPEAKER_01
+227.35--246.9
+ Thank you very much for that. That is the one we have. Now for having it updated, you can go online and change it under your profile or once we're done here, I can connect you to a customer service and they can have it updated for you. Now can I have you verify the last four of your socials?
+SPEAKER_00
+248.65--250.5
+ 9 4 1 3
+SPEAKER_00
+251.85--251.9
+ you
+SPEAKER_01
+251.9--253.8
+ Thank you. For more information on the expiration date, please visit our website at www.sasktel.com.
+SPEAKER_00
+256.15--259.5
+ of the card is April 23.
+SPEAKER_01
+260.45--270.0
+ Okay, thank you very much for that Miss Poe. And I'm sure you hear you have, oh I apologize. In the event we are disconnected, what would be the best number to reach you back at?
+SPEAKER_00
+273.45--279.6
+ Line 540, 537, 4142.
+SPEAKER_01
+280.85--289.7
+ Thank you for that and I do have your authorization to call you back at 540-537-4142 in the event we are disconnected.
+SPEAKER_00
+291.45--293.9
+ Okay. Good.
+SPEAKER_01
+293.95--294.9
+ That's a yes.
+SPEAKER_00
+296.35--296.6
+ Yeah.
+SPEAKER_01
+296.6--307.0
+ Okay, thank you very much for that. And I'm showing here you have a point balance of 185,855 points available for use. And how may I assist you today?
+SPEAKER_00
+309.55--344.6
+ Well, I have a flight on Thursday and, well, I cannot find my printed out copy and I can't find it on my email, my confirmation of my flight. I think I took it to the office this morning and thought I would do it there and it's on my desk but I'm not there and I need to confirm that everything's a go. Just check in. Can you resend that to me?
+SPEAKER_01
+346.05--353.4
+ Sure, I'll be more than happy to assist you with that Mrs. Poe. Do you have the trip ID number?
+SPEAKER_00
+353.4--378.3
+ I have none of that. None. It is on that sheet of paper. But I can tell you the date it is. Okay. You know, my flight is on, from Roanoke, Virginia. This Thursday, September 29th. Going to Houston, Texas.
+SPEAKER_01
+378.3--378.8
+ Yeah.
+SPEAKER_00
+378.95--396.3
+ And I booked it probably mid September. No, gosh, before that, mid September. It would have been before then. But anyway, it was probably beginning. Maybe I didn't go back far enough. That's the thing. I was thinking...
+SPEAKER_01
+396.3--415.3
+ I may have it. This may be it. Is it for, I'm sorry, is it for yourself, with the Delta Airlines flight departing out of Houston Hobby on, I'm sorry, departing out of Roanoke on September the 29th.
+SPEAKER_00
+416.95--421.7
+ Yes, and then returning on the other. And that has the code that I need to...
+SPEAKER_00
+422.65--425.6
+ confirm my check-in.
+SPEAKER_01
+425.95--427.0
+ Okay, so if you're...
+SPEAKER_00
+427.0--428.0
+ the number.
+SPEAKER_01
+429.45--433.6
+ Right, okay, so you're returning from Roanoke though right? Making sure I have the right one.
+SPEAKER_00
+434.95--446.1
+ I'm going, leaving from Roanoke to Houston, and then on Tuesday, October 3rd, I think it is, I'm coming from Houston back to Roanoke.
+SPEAKER_01
+447.15--466.5
+ Okay, we're on Oak to Houston and yes, okay, this is the one I have. I was looking at the itinerary and it gives way more detail, so I was looking at the wrong part. Okay, so I believe this is the trip ID, a trip ID 5123-3150. Is this the only itinerary? Okay, say this again. Sure.
+SPEAKER_00
+466.5--471.8
+ Say that again, the trip ID.
+SPEAKER_01
+471.8--478.4
+ 5-1-2-3. Okay. 3-1-5-0.
+SPEAKER_00
+480.95--484.1
+ 5123-3150.
+SPEAKER_01
+484.1--489.2
+ Yes, ma'am. Okay. And was this the only itinerary you were needing assistance with today?
+SPEAKER_00
+489.2--493.6
+ Yes. And if you could send that to me.
+SPEAKER_01
+495.35--501.4
+ Okay so the email that I have on file that this was sent to previously was...
+SPEAKER_01
+502.05--511.5
+ w as in whiskey p as in papa o as in oscar is an echo 2501 at iCloud.com
+SPEAKER_00
+511.5--511.9
+ Yeah.
+SPEAKER_01
+512.249--512.5
+ Thank you.
+SPEAKER_00
+512.5--525.4
+ And what day was that? I must not have gone back far enough because I just couldn't find it. And so, if you have that, that's great. If you could send it to me, then I will have it.
+SPEAKER_01
+525.55--527.0
+ Yes, and I'll be able to.
+SPEAKER_01
+528.95--536.8
+ So it was sent out on September the 7th and I just re-sent it. It would have come from the Traveler Award.
+SPEAKER_00
+538.45--543.1
+ Okay, the second. Sure.
+SPEAKER_00
+543.85--582.3
+ Let's see if I can... if I've gotten it. I smile. Okay. Good. That's excellent. I just was in my frustration. I did not go back far enough on the account. Okay. Okay, so I'm going to... I think that's good. That's what I need. Okay. And I'm going to contact Nelson and now I'll be able to check and make sure everything's fine.
+SPEAKER_00
+582.95--591.0
+ I think I can't register until 24 hours in advance, but at least I can see if the itinerary is the same.
+SPEAKER_01
+592.15--594.6
+ of where you're checking. Are you going on vacation?
+SPEAKER_00
+596.55--611.4
+ Oh well, great question. I'm going to visit my mother to help her pack and move out of her house which she's 90 years old and not happy about.
+SPEAKER_01
+611.4--612.9
+ Oh, that made me...
+SPEAKER_01
+613.85--619.1
+ No, I would not call that a vacation. Awwwww!
+SPEAKER_00
+619.1--621.5
+ I am on my
+SPEAKER_00
+622.25--627.9
+ three sisters will be together so that will be the fun.
+SPEAKER_01
+627.9--633.3
+ That's awesome. Well, it's rare that you know family get together nowadays, so that'd be a great thing.
+SPEAKER_00
+634.55--638.8
+ That's right. There are some things you can look forward to.
+SPEAKER_01
+638.8--640.7
+ Yes!
+SPEAKER_00
+640.7--644.6
+ Okay, thank you very much.
+SPEAKER_00
+645.45--655.6
+ I think I got this and I won't I'll be calling back another time for another flight but right now we'll see how it goes.
+SPEAKER_01
+655.6--670.5
+ Thank you very much. You're very welcome, Mrs. Poe. And again, thank you for calling the Tribal Award Center, Mrs. Poe. You have yourself a great day and a safe trip. Well, you too. Thank you, my pleasure. Well done.
+SPEAKER_00
+670.5--687.8
+ Okay.
+SPEAKER_01
+704.25--704.8
+ Miss Poe?
+SPEAKER_00
+706.15--716.2
+ Yeah, oh I'm sorry, yeah, I'm sorry, I thought we were gone. I zoned out again, you can tell my brain is on overload.
+SPEAKER_00
+717.65--722.3
+ Alright, well first of all tell me where are you at?
+SPEAKER_01
+722.3--724.7
+ I am in Oklahoma Tulsa.
+SPEAKER_00
+725.65--730.4
+ Oh my goodness me. Oklahoma at least did not buy any of the storms.
+SPEAKER_01
+730.4--741.7
+ Well yes, that's a good thing. It's a great thing, but I just feel so bad for the people that are over there by the storms. I know some of them are used to it, but still the devastation has to be horrific.
+SPEAKER_00
+741.7--748.7
+ It's crazy. It is. It really is. Will you be safe and thank you for your patience.
+SPEAKER_01
+748.7--757.9
+ It's my pleasure, Mrs. Pugh. You be safe as well. And again, thank you for calling the Chopper Overwatch Center. You're welcome. Have a great day. Goodbye.

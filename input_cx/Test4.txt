@@ -1,0 +1,438 @@
+SPEAKER_00
+0.0--0.6
+ Jesus.
+SPEAKER_01
+0.6--0.8
+ Thank you for having me.
+SPEAKER_00
+1.35--10.2
+ Thank you for calling Travel Rewards Center. My name is Mel and I'll be your travel representative today. All calls are monitored and reported. You may have your full name.
+SPEAKER_02
+13.05--17.2
+ Catherine G. Lewis, L-A-W-Y-S.
+SPEAKER_00
+17.85--22.2
+ Thank you so much, Ms. Lewis and I. Are we working with a new reservation or existing today?
+SPEAKER_02
+26.35--27.0
+ New.
+SPEAKER_00
+27.35--33.3
+ Okay, wonderful, Ms. Lewis. And I will need your zip code and card number to access your account.
+SPEAKER_02
+37.15--52.2
+ 55105, 4147, 7885, 80774111.
+SPEAKER_00
+55.05--63.0
+ Okay, wonderful. Thank you so much Mrs. Lewis and what is your mailing address and phone number on the account of Lewis?
+SPEAKER_02
+65.55--72.3
+ 657 Fairmount Avenue, St. Paul, Minnesota, 55105.
+SPEAKER_00
+75.85--78.0
+ That phone number. Phone number. Yep.
+SPEAKER_00
+79.15--79.2
+ you
+SPEAKER_02
+79.2--85.1
+ 651-207-7123.
+SPEAKER_00
+85.1--89.8
+ Louis had did you have a different phone number on the account ma'am?
+SPEAKER_02
+89.8--95.3
+ Possibly yes, it could be 651-291-0777.
+SPEAKER_00
+95.95--102.7
+ Beautiful Miss Lewis, you are fully verified ma'am and what's a good call back number just in case we get disconnected.
+SPEAKER_02
+106.35--112.9
+ um 651-207-7123
+SPEAKER_00
+113.25--122.2
+ Beautiful. And Miss Lewis, you have 405,840 points. How may I assist you with your flights, hotels, or car rentals?
+SPEAKER_02
+123.75--134.9
+ Well, some of my my poet points are going to disappear after tonight. It's the 30th of September, right?
+SPEAKER_00
+135.45--143.6
+ I don't know that to see your expiring point since I only book but um, were you looking for like ways? So how many we're going to expire?
+SPEAKER_02
+146.75--156.1
+ Well, I thought you would know. I thought this company would know it's 30. It was thirty thousand plus. I can look it up. If I could find this thing and look it up.
+SPEAKER_00
+156.1--178.5
+ Okay, so yeah, I'm only to travel. I'm not with your banking. I'm just we only do the bookings, but if it's 30,000 points You can either Of course you can book flights hotels car rentals you can get gift cards or you can change your 30,000 points into cash And pay your bill. It's completely up to you. So you're not forced to do anything. You don't want to do
+SPEAKER_02
+178.5--190.9
+ Well what I was hoping to do is use those points toward my reservations, my airline reservation and get back to my reservations.
+SPEAKER_02
+191.55--200.0
+ Okay, where would you like to fly from and to? From Minneapolis to Washington DC.
+SPEAKER_00
+200.55--204.4
+ DC and what was your dates of travel?
+SPEAKER_02
+206.45--218.7
+ going from Minneapolis to Washington, D.C. on the 1st of November and returning from Washington, D.C. to Minneapolis on the 8th of November.
+SPEAKER_00
+219.35--221.8
+ and how many passengers were you flying with ma'am.
+SPEAKER_02
+222.75--223.3
+ Cool.
+SPEAKER_00
+223.65--227.7
+ to ms lewiswood airport where which airline were you looking to fly with
+SPEAKER_02
+230.05--233.9
+ I wanted to find out what the rates were and what would be the best deal.
+SPEAKER_00
+233.9--269.6
+ Okay, so it's all depending on what time you would like to leave. So of course the best rates would be later at night around 816 p.m. But if you wanted to leave earlier in the day, the next best rate would be 220 p.m. And that's with Delta Airlines and these are non-stop flights. They will be 21,000 points each. So it would be for two people about when. And that's all depending on when you would like to return. It would range from 40,000 to 50,000.
+SPEAKER_02
+269.6--270.8
+ That's round trip, right?
+SPEAKER_00
+271.15--272.8
+ Yep, 40,000.
+SPEAKER_02
+272.8--277.2
+ 21,000 is round trip for one, correct?
+SPEAKER_00
+277.2--279.4
+ Yeah, so for two, it would be about 43.
+SPEAKER_02
+281.05--283.8
+ for two round trips.
+SPEAKER_00
+283.95--291.9
+ And that's only if you wanted to pick your seating. If you didn't want to pick your seating, it'll be 40,000. It'll be lower.
+SPEAKER_02
+294.05--301.2
+ Oh, you mean, okay. I don't, yeah, I don't care.
+SPEAKER_00
+301.2--338.1
+ Let me see here on your return. So that would be leaving out of MSP at 2.20 PM, arriving in Washington at 5.45 PM. Okay, and that's with Delta Airlines. And for your price to stay the same, you would have to leave either at 7.38 AM or 7.30 AM or the lowest would be 3.22 PM.
+SPEAKER_02
+341.65--344.1
+ 3 22 PM that's on the 8th.
+SPEAKER_00
+344.1--350.3
+ Yes ma'am on your return so you would have to leave at $322 or $7 to keep that pricing in the same area.
+SPEAKER_02
+352.55--354.4
+ or 7 a.m or p.m.
+SPEAKER_00
+354.65--355.8
+ a.m. a.m.
+SPEAKER_02
+356.85--359.7
+ I would choose 322.
+SPEAKER_00
+361.55--369.9
+ So yep, 3.22 PM, you would arrive from DC-8, leaving at 3.22 PM, getting into MSP at 5.13.
+SPEAKER_02
+373.05--373.8
+ Okay.
+SPEAKER_00
+373.95--378.2
+ and this will be a total of 40,960 points.
+SPEAKER_02
+381.15--385.0
+ Okay, but none of those can be the ones that are about to expire apparently
+SPEAKER_00
+385.65--398.8
+ Yep, they will be. They will be all. So if you use, since 30,000 expired today, it was all 30,000 will go to this trip and you will use 10,000 new points. So yeah, you won't have to worry about those if you did book this today.
+SPEAKER_02
+399.65--404.1
+ Okay, I'm not sure it was exactly 30, but it was approximately 30.
+SPEAKER_00
+404.55--422.3
+ Okay, approximately, and that's okay. And if you, I'll get you connected with your card member services, and if they say, oh, you have more than 30,000, you can just say, oh, can you apply those points that are expiring towards my bill? And they'll change it and change that into cash and pay your credit card bill with it.
+SPEAKER_02
+424.15--424.8
+ Okay.
+SPEAKER_00
+425.95--443.3
+ Okay. Okay. So, these tickets are not refundable, not upgradable unless permitted by your airline rules and normal ticketing fees may apply. Unused tickets have no value. So, what will be your name as it shows on your government compliant photo ID?
+SPEAKER_02
+446.95--447.6
+ Okay.
+SPEAKER_00
+448.15--451.5
+ Which houses how then what's the name of both passengers?
+SPEAKER_02
+452.95--455.0
+ Catherine G Lewis.
+SPEAKER_00
+455.35--456.9
+ And what's your data bar?
+SPEAKER_02
+459.65--463.5
+ 12 23 37.
+SPEAKER_00
+463.5--468.9
+ Oh, 23. 37. Wonderful.
+SPEAKER_02
+469.85--470.3
+ Yep.
+SPEAKER_00
+470.75--475.1
+ Good years, that's a good year.
+SPEAKER_02
+475.1--475.6
+ year.
+SPEAKER_00
+475.75--480.0
+ 37? Oh yeah, that's a good year. That's a wonderful year.
+SPEAKER_02
+480.0--481.6
+ Yeah, you weren't around.
+SPEAKER_00
+481.65--484.1
+ Oh yeah, I wouldn't even thought of.
+SPEAKER_02
+484.15--486.8
+ I wasn't really much around.
+SPEAKER_02
+487.55--488.8
+ They're trying to be born.
+SPEAKER_00
+489.65--498.5
+ you had the you well i guess you had a good time frame the time period i wish i was born in the back then i'd switch
+SPEAKER_02
+498.5--503.0
+ Yeah, well, when were you born?
+SPEAKER_00
+503.25--506.0
+ the 90s, 93.
+SPEAKER_02
+506.05--508.8
+ Yeah, a little later.
+SPEAKER_00
+508.8--509.5
+ I'm going to be back. I'm going to be back.
+SPEAKER_02
+509.95--510.7
+ I thought about it a little bit.
+SPEAKER_00
+511.45--512.799
+ You guys have the good music.
+SPEAKER_02
+515.55--525.6
+ There was some good music, yeah. Yep. Music all the years I was growing up and all the years afterwards, you know, for a long time until...
+SPEAKER_02
+526.15--529.4
+ Through the 80s, I'd say at least.
+SPEAKER_00
+529.401--536.2
+ Yeah, yeah. Once they hit the 90s and 2000 music just disappeared. It's horrible.
+SPEAKER_02
+536.95--541.8
+ Yeah, around the 2000s it's much less, it's much less to like.
+SPEAKER_00
+541.8--542.5
+ Yeah
+SPEAKER_02
+542.5--542.7
+ Yeah.
+SPEAKER_00
+543.05--543.8
+ Yeah.
+SPEAKER_02
+543.8--551.1
+ I feel like a few things, but back in the 60s and 70s it was really great stuff.
+SPEAKER_00
+551.55--554.2
+ Oh man, I've been told that by everyone.
+SPEAKER_02
+554.2--563.0
+ in the 50s and 50s were different and they were some of those songs were good some of them were mushy
+SPEAKER_00
+563.0--573.6
+ A little strange. Yeah. Now, Ms. Lewis, for your second passenger, is that your husband, Pierre? Is it P-I-E?
+SPEAKER_02
+573.6--589.6
+ No, it is not. He's deceased. It's my daughter who has the same name as I do. Oh. But her middle initial is different. Her middle initial.
+SPEAKER_02
+590.75--592.6
+ She is Catherine M.
+SPEAKER_00
+592.6--596.4
+ Lewis Catherine M. Lewis
+SPEAKER_02
+597.35--597.9
+ Yeah.
+SPEAKER_00
+597.9--600.8
+ What's her date of birth?
+SPEAKER_02
+601.85--609.3
+ August 2nd, 1968.
+SPEAKER_00
+609.3--618.2
+ 1968. Wonderful. And I'm sorry about your husband there. Hope you had a wonderful life together.
+SPEAKER_02
+619.15--623.7
+ Yeah, we did. We had a pretty good long life together. That's beautiful. That's a good, yeah.
+SPEAKER_00
+624.95--635.2
+ Beautiful. I will take that, I would love that opportunity just to have a long life with the person. I will love that opportunity.
+SPEAKER_02
+635.75--639.1
+ Yeah, yeah, you're lucky that happens.
+SPEAKER_00
+639.55--640.4
+ Yes.
+SPEAKER_02
+640.4--645.1
+ Yes, definitely. I really didn't think it would happen but it just kept on happening.
+SPEAKER_00
+645.1--646.7
+ Hahahaha
+SPEAKER_02
+647.75--655.1
+ How could you live with somebody for 30, 40, 50 years? Yeah. Are you kidding? Yes, but it didn't work.
+SPEAKER_00
+655.55--657.6
+ and it worked. That's beautiful.
+SPEAKER_02
+657.65--658.9
+ Yep. Yeah.
+SPEAKER_00
+660.25--688.2
+ Well, Mrs. Lewis, I did get everything booked for you, ma'am. You should be good to go on those expiring points as well. We used up $40,000, but I'll get you connected with the department that'll tell you if you do have any expiring and if there's any more, that will be. OK. And by your tickets are fully booked. I sent you an email with your reference. Is that KGLewis1 at gmail.com or did you have a different email?
+SPEAKER_02
+688.2--693.4
+ Yes. No, that's it. Don't forget the one. Exactly. Wonderful.
+SPEAKER_00
+693.4--696.1
+ So I sent you all your itinerary.
+SPEAKER_02
+696.1--702.9
+ So you have my you you are filling my our first name correctly right K A D H E R I N E
+SPEAKER_00
+703.05--703.8
+ Yes, ma'am.
+SPEAKER_02
+704.25--705.6
+ Yes. Oh, good. OK.
+SPEAKER_00
+706.75--720.8
+ Louis, got both of you on there and in that email it'll show all the spellings and all your trip details as well okay so if you wanted to forward it to your daughter or I can send it to her as well if you want it so you can both have that.
+SPEAKER_02
+720.8--730.7
+ Okay. If you want to send it, I can forward it to her. You can send it. If you're right, you can just do it right there.
+SPEAKER_02
+731.75--743.8
+ Her email address is kmlewis4.com.
+SPEAKER_00
+744.35--751.7
+ Wonderful. She should be receiving an email as well. They said it could take up to two hours, but she should most likely see it here in the next few minutes.
+SPEAKER_02
+751.7--755.4
+ No, no misery. No, we've got a little time.
+SPEAKER_00
+756.15--768.2
+ Wonderful, wonderful, Miss Lewis. But we got everything taken care of for you. Of course, these are not refundable tickets. All baggage fees will be due with the airlines since we do not associate with them.
+SPEAKER_02
+768.2--768.9
+ on the ball.
+SPEAKER_00
+769.05--782.1
+ Yes, they're non-refundable tickets. So if you do want to change anything, Ms. Lewis, if you do it within 24 hours, you call us, okay? And we can make that change for you. But anytime after that, they're non-refundable, okay?
+SPEAKER_02
+783.25--786.2
+ But if I got, you know, if I got some horrible disease.
+SPEAKER_00
+786.55--787.1
+ now.
+SPEAKER_02
+787.1--791.9
+ go that would be something else right yeah that's completely I'm not planning to do that
+SPEAKER_00
+791.9--796.1
+ I'm hoping not, Ms. Berissa. I hope you are going to be very healthy. just play it
+SPEAKER_02
+796.1--797.0
+ Yeah.
+SPEAKER_00
+797.0--802.4
+ But yeah, if anything like that happens, you call us and we will happily take care of you, Ms. Lewis, okay?
+SPEAKER_02
+802.75--810.2
+ This is the number to call. Okay, okay another question. What is your, what are your COVID requirements?
+SPEAKER_00
+810.85--821.8
+ Um, they do leave based on airline. You should as long as you bring a mask. You don't have to wear them sometimes. It's all depending on where you're headed. So I would say bring a mask just in case, but you don't have to have anything else.
+SPEAKER_02
+823.75--831.5
+ Yeah, I mean you can't wear it if you're eating, but there isn't much to eat on the plane anyway. Yeah, not a big deal.
+SPEAKER_00
+831.5--835.7
+ or drink. Or drink. Yeah, the drink's a whore.
+SPEAKER_02
+835.7--863.6
+ I had one more question, just let me think what it is. You still have the same rules about baggage and what you can bring on, how many pieces of baggage you can bring on the plane and how many need to be kept.
+SPEAKER_00
+863.6--871.7
+ Yes, ma'am, same rules. If you wanted to pay for additional baggages, fees, they're about $35 to $40. But yeah, it's usually one check bag.
+SPEAKER_02
+872.75--879.5
+ Please check one bag and you can take a handbag and another backpack or something off with you.
+SPEAKER_00
+879.5--881.3
+ Yep, that's usually how it is
+SPEAKER_02
+882.25--890.3
+ Okay. Okay. So you're going to transfer me to somebody else now, right?
+SPEAKER_00
+890.3--903.9
+ Yes, ma'am, Ms. Lewis, so they can give you that value on points that can expire. And if they say, hey, 30,000 points expire, well, you know, you just use 40,000 a day. So you'll be fine if it's anything under 40,000 points. OK.
+SPEAKER_02
+903.9--909.0
+ Yeah, I'm sure it's under 40,000 and they will know what to do, right?
+SPEAKER_00
+909.45--915.9
+ Yep, they will know that because it's already I already took those 30,000 points like they're gone like you're good. So
+SPEAKER_02
+915.9--916.5
+ Okay.
+SPEAKER_00
+916.65--922.6
+ Yeah, like so if they tell you anything like oh you have to spend thirty thousand you're already spent them. So you're okay
+SPEAKER_02
+922.6--930.3
+ Okay, if it turns out to be left, then they'll take care of that too. I think I got it about right. Oh yeah, you got it. Thank you.
+SPEAKER_00
+930.3--938.4
+ You're welcome, Ms. Lewis. Thank you again for calling the Travel Center, Ms. Lewis. It's been a pleasure speaking with you today. You have a terrific rest of your evening, mail.
+SPEAKER_02
+939.25--940.5
+ Thank you. I hope you do.
+SPEAKER_00
+940.5--943.1
+ Thank you. Thank you, Ms. Lewis. Thank you, Mr. Chairman.
+SPEAKER_02
+943.1--943.4
+ Thanks.
+SPEAKER_00
+943.75--944.7
+ You too. Bye.
+SPEAKER_01
+946.15--966.6
+ You are on hold. Thank you for calling the reward center. Your call may be monitored or recorded for quality purposes. To get started, please say or enter your phone number.
+SPEAKER_00
+966.6--967.2
+ is gonna do
+SPEAKER_01
+970.75--977.4
+ Okay, I'll get a representative on the line for you, but first, to better assist you, please say or enter your account number.
+SPEAKER_00
+977.75--979.2
+ speak to a representative.
+SPEAKER_01
+982.55--1004.0
+ Just a moment while I connect your call.

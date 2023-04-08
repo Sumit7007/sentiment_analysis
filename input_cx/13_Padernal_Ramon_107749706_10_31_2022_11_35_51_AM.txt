@@ -1,0 +1,102 @@
+SPEAKER_01
+5.6--11.3
+ Welcome to the Tribal Help Desk. My name is Ram. I'm a supervisor. May I have your full name, please?
+SPEAKER_00
+11.3--14.1
+ Hi, my name is Lincoln.
+SPEAKER_01
+14.1--27.3
+ How are you today? I'm doing just fine. So how about yourself? Doing well, thank you. That's very nice. And may I also ask for your Chase credit card number together with your billing zip code so I can pull up your account first please.
+SPEAKER_00
+27.75--31.0
+ Oh my. Okay, I have a tip ID number.
+SPEAKER_00
+31.75--31.8
+ you
+SPEAKER_01
+31.8--35.3
+ All right, well, we can go with a trip ID then.
+SPEAKER_00
+35.3--50.1
+ Yeah, I just don't have my wallet with me this time. Anyway, I received an email saying there was a change in my Korean Air line, I guess, trip to Vietnam. Nine, ten, eleven...
+SPEAKER_00
+50.95--54.2
+ Thank you.
+SPEAKER_01
+54.2--62.0
+ I'm so sorry. If you can kindly start again from the 9th, please. Okay.
+SPEAKER_00
+62.0--76.7
+ There's nine, K as in tight, two as in clean, three, five, F as in frank, seven, X as in xylophone, an x-ray, and M as in Mary.
+SPEAKER_01
+80.05--94.8
+ Alright, just to make sure I got that correctly. That is 9 K like Kilo, T like Tango, 3, 5, F like Frank, 7, X like X-ray, S like Sierra, M like Mama. Did I get that right?
+SPEAKER_00
+95.55--108.9
+ No, they must. Okay, so I think you messed up on the, um, after the 9 and K. There's Q as in clean. Oh, okay. Yeah, she has.
+SPEAKER_01
+108.9--127.2
+ Then T as in tango. No, no T, no T. Just Q as in queen. Okay, so 9, K like kilo, Q like queen, 3, 5, F like Frank, 7, X like X-ray, S like Sierra, M like Mary. Did I get that right? No.
+SPEAKER_00
+127.2--132.1
+ No, take that SIC era.
+SPEAKER_01
+132.1--150.8
+ So, okay, one more time, sir, I apologize. That's 9 K like Kilo, Q like Quebec, 3, 5, F like Frank, 7, X like X-ray, M like Mama. Did I get that right? Yes, you did. Alright, thank you very much. This is a myth, but we got this. Okay.
+SPEAKER_01
+151.35--163.6
+ Alright, anyway, sir, bear with me for another second. I'll just have the schedule pulled up. And I apologize again, sir. If you can kindly repeat your first and last name for me, please. Go ahead.
+SPEAKER_00
+163.6--170.3
+ Thank you.
+SPEAKER_01
+170.3--185.2
+ Okay, yes sir, Mr. Sannehi, again can you tell me again what airline is this and what is the scheduled departure from where and the destination please.
+SPEAKER_00
+185.2--198.9
+ So we are now on the scheduled departure of the 19th of April around 0050. Alright. And? I'm sorry. 19th of November.
+SPEAKER_01
+198.9--203.7
+ And the return will be when again, please, sir?
+SPEAKER_00
+205.75--229.4
+ I think there's the party hosting in. Okay. On the, uh, there was 29. Yeah, 29. Yeah, 29.
+SPEAKER_01
+229.4--233.3
+ Okay, so bear with me for another second.
+SPEAKER_01
+234.15--268.1
+ And sir, what is the, for how many passengers again is this please? Two. Okay. And the name of the second passenger will be what again please? Luca Maurice Belay. Thank you kindly. And yeah. And okay. Now I do show. All right. And finally here it is. Now, Mr. Sanay, how can we be of help with this particular booking please?
+SPEAKER_00
+268.45--283.0
+ Well, I was, I received a email saying there were some changes to the itinerary. They made a call to confirm that, you know, I'm aware of the changes. All right.
+SPEAKER_01
+283.0--415.6
+ Okay, I do see the changes. Here it is. Now, okay. Now, I can just discuss the changes with you, sir. Now, it is still on the 19th that you will be departing, and we'll still be leaving New York at 1250 a.m. However, instead of just a 14-hour, 25-minute flight to Seoul, it will be 15 hours and 55 minutes, which means you will arrive in Seoul by 645 a.m., okay? And that layover will be 12 hours still. Oh, will be 12 hours. You will leave. Hold on. Yeah. You will leave Seoul at 645 the following day, arriving in Hanoi, Vietnam at 940 p.m. And, yeah, 940 p.m. will be your arrival time from Seoul, Korea. Now, instead of 11, 1110 a.m. So, that's just for the departure, though. And for the return, actually, the return is okay. The only change on the return is the type of airplane that you will be riding on from Seoul back to New York, which instead of the Boeing 777-300, it will be an Airbus A380-800 passenger. But, sir, that missed your, yeah. About the changes on the departure flight, will you, is this still acceptable for you?
+SPEAKER_00
+415.6--424.9
+ Yeah, we'll stick with that. I think they already made it. Okay.
+SPEAKER_01
+424.9--450.1
+ So, I can, we can either say, I can accept the new flight pattern for you if this is okay or you can do it yourself on the website through of course through www.ultimaterewards.com and of course all you need to do is access your account or your.
+SPEAKER_00
+450.1--451.8
+ We can all cut this one, that's fine.
+SPEAKER_01
+452.05--480.0
+ Okay, so again sir, do I have your permission to accept the new scheduled flights for, scheduled for you? Yes. Thank you kindly. Taking care of that right now. Hold on. We're just waiting for the update of the itinerary. Just bear with me for another minute please.
+SPEAKER_00
+480.0--480.4
+ Okay.
+SPEAKER_01
+496.95--515.7
+ Alright, so my good sir, you can rest assured that the flight has already been changed. I mean, at least the departure flight, it is now the new schedule that will be followed. And, is there anything else that I can be of help today, please?
+SPEAKER_00
+515.7--518.5
+ No, that's all. Thank you.
+SPEAKER_01
+518.5--518.7
+ it.
+SPEAKER_00
+519.35--519.4
+ you

@@ -1,0 +1,237 @@
+SPEAKER_01
+0.0--8.0
+ Thank you so much for calling the Travel Word Center. My name is Tamara. We have this super about the alcohol, but I wanted to record it. Please have your first and last name.
+SPEAKER_03
+10.45--12.9
+ Hey Tamara, it's Sean from Frontline, how's your night going?
+SPEAKER_01
+13.15--14.7
+ It's not great are you?
+SPEAKER_03
+14.7--17.8
+ Not bad. I got a trip ID number for you whenever you're ready.
+SPEAKER_01
+18.05--19.5
+ Okay, I'll rate it whenever you are.
+SPEAKER_03
+19.5--23.7
+ It is 40092904.
+SPEAKER_01
+24.85--27.5
+ 40092904
+SPEAKER_03
+27.85--28.2
+ Yes.
+SPEAKER_01
+29.35--39.7
+ All right, this is going to be for Ms. Yacquez. she's caught up on the credit
+SPEAKER_03
+40.25--45.1
+ Yep, yep, I've got the account holder Andrew Youngquist on the phone. He's been fully verified. He's good to go.
+SPEAKER_01
+45.45--48.7
+ Alright, I'll be more than happy to save SQL Transfirm, over.
+SPEAKER_03
+49.05--54.9
+ Thanks, Ms. Terramore. You have a great rest of your night. You too. Mr. Youngquist, are you still with me?
+SPEAKER_02
+55.75--56.8
+ I am, yeah.
+SPEAKER_03
+57.15--63.4
+ Okay, so I've got Miss Tamara on the phone. She is one of our travel supervisors and she's gonna go ahead and assist you with your booking, okay?
+SPEAKER_02
+64.25--66.4
+ Great, thank you so much. I appreciate it.
+SPEAKER_03
+66.65--74.2
+ Not a problem at all Mr. Youngquist. You have a wonderful recipe today. Thank you for calling the Travel Rewards Center. Have a good holiday with your daughter.
+SPEAKER_02
+74.95--76.4
+ Oh, thank you so much.
+SPEAKER_01
+77.45--89.4
+ Hi Mr. Youngquist, my name is Tamara. Be sure to hit that subscribe button today. I'll cause a monster recording. I see you're calling by the credit amount for $473.39. Thanks for missing me, Youngquist. Congratulations sentiment.
+SPEAKER_02
+90.25--91.7
+ Yeah.
+SPEAKER_01
+91.95--97.4
+ perfect and you want to go to travel and what would you like to travel to and from
+SPEAKER_02
+98.55--108.4
+ Okay, so I've actually got the flights here. So I'd like to have her travel from Salt Lake City to Minneapolis round trip.
+SPEAKER_01
+108.85--114.2
+ Okay. And what date will the outbound be?
+SPEAKER_02
+115.25--118.3
+ the outbound will be on
+SPEAKER_02
+119.45--123.7
+ Let's see, what was that? December 17th.
+SPEAKER_01
+124.45--126.5
+ Perfect. And what day are we returning back?
+SPEAKER_02
+128.05--131.3
+ The return would be Friday, January 6th.
+SPEAKER_01
+131.85--138.2
+ January 6th, perfect. And do you have a time for the outbound, July 4th, believe out.
+SPEAKER_02
+138.95--151.2
+ Yeah, so the one that we're looking at is the 818 AM, DL873 if that helps.
+SPEAKER_01
+156.85--159.8
+ Perfect, and for the return flight, what do you have for me?
+SPEAKER_02
+160.85--165.0
+ That one is DL993 at 2 27 p.m.
+SPEAKER_01
+165.35--176.6
+ So what I can do for you, I can just go ahead and price out the fair difference from the credit. And in case you disconnected, I think that was a good call back number for you.
+SPEAKER_02
+177.55--181.6
+ Yep, 763-482-9127.
+SPEAKER_01
+181.95--187.3
+ Perfect. I have 769-482-9127. Is that correct?
+SPEAKER_02
+188.15--189.6
+ We'll call photo Our mail on
+SPEAKER_01
+189.85--191.8
+ Oh, sorry.
+SPEAKER_02
+191.8--195.9
+ Okay, 482-9127, I think everything else is.
+SPEAKER_01
+197.05--202.7
+ Okay perfect 9 1 2 7. Alright I'll just put this in a 3 to 5 minute hold. Is that okay?
+SPEAKER_02
+203.65--204.7
+ That's perfect, yeah.
+SPEAKER_01
+204.95--206.6
+ Alright, I'll be right back with you.
+SPEAKER_02
+207.55--207.9
+ Okay.
+SPEAKER_00
+207.9--208.1
+ Thank you.
+SPEAKER_01
+208.25--208.9
+ You're welcome.
+SPEAKER_00
+209.75--210.7
+ You are on hold.
+SPEAKER_01
+241.25--248.3
+ I think I need a baby
+SPEAKER_00
+331.75--332.7
+ You are on hold.
+SPEAKER_01
+349.05--350.3
+ Mr. Nyaslav, are you there?
+SPEAKER_02
+351.15--351.9
+ I am.
+SPEAKER_01
+351.9--356.4
+ Thank you so much for holding so far about the whole time I got those flights pulled up for you
+SPEAKER_00
+357.35--357.7
+ Great.
+SPEAKER_01
+358.05--378.9
+ And I have it for December the 17th on a Saturday, leaving at 8.18 a.m. to 12.04 p.m. from Salt Lake City to Minneapolis. Returning back on January 6th on flight number 993 from Minneapolis to Salt Lake City, on flight number 227 to 426. Alright.
+SPEAKER_02
+379.65--380.5
+ That's correct.
+SPEAKER_01
+380.75--394.7
+ Perfect. And I do see here that your original credit is more than the new fare, which is your original credit is $473.39 and the new fare is $467.20. So the only thing you have to pay today is a $35 exchange fee.
+SPEAKER_02
+395.75--396.2
+ Okay.
+SPEAKER_01
+396.65--400.5
+ Perfect. And will the exchange fees be on the card number 9433?
+SPEAKER_02
+401.65--402.7
+ That's correct, yeah.
+SPEAKER_01
+402.95--429.7
+ Perfect. And do I have your authorization to charge the car number 35, excuse me, the car number 9433, $35? Okay, thank you. All right, so what I'm going to do here is secure this flight for you, and then I'll be back with a confirmation code and a trip ID number in that agency with this number, okay?
+SPEAKER_02
+430.65--431.7
+ Okay, sounds good.
+SPEAKER_01
+431.85--433.1
+ Perfect one moment here.
+SPEAKER_02
+433.75--433.9
+ you
+SPEAKER_00
+433.9--556.7
+ You are on hold. You are on hold. You are on hold. You are on hold. You are on hold.
+SPEAKER_01
+632.55--641.8
+ Mr. Niekwes, how are you doing? Yes. Thank you so much. Thank you so much for patiently holding. I do have an airline confirmation code for you. Please just let me know when you're ready.
+SPEAKER_01
+642.95--658.5
+ Alright, there's going to be HSM Hotel, VSM Victor, and it's in November at system X-ray, J's and Juliet, L is in Lima. Great. And the agency reference numbers, just let me know when you're ready.
+SPEAKER_02
+658.5--658.9
+ Ready.
+SPEAKER_01
+659.25--674.9
+ it's going to stay the same it's going to be 797 p as in paul 72 great and the trip id number is going to stay the same as well 400-92904
+SPEAKER_02
+677.45--678.0
+ Okay.
+SPEAKER_01
+678.55--688.2
+ And Delta Airline was able to give me some seat assignments for Ms. Youngquist. I have flight number 873, 31C is in Charlie.
+SPEAKER_02
+689.95--690.4
+ Okay.
+SPEAKER_01
+690.75--694.3
+ And for flight number 993, 30C is in Charlie.
+SPEAKER_02
+696.85--699.6
+ Okay, so 30C is that, okay.
+SPEAKER_01
+700.35--706.5
+ And you can always change it through the Delta Airlines website if you like. And is there anything else I can assist you with today?
+SPEAKER_02
+706.5--715.8
+ No, that's it. You've been very helpful. And then I would assume just a little bit of credit left will just kind of go away eventually.
+SPEAKER_01
+715.801--718.2
+ credit this method will be forfeited.
+SPEAKER_02
+719.25--724.0
+ Perfect. Okay, great. Well, you guys have been very helpful. Thank you so much.
+SPEAKER_01
+724.05--731.2
+ My pleasure. One more thing. Is this the correct address? I just want to double check before you go. It's yonkwith at gmail dot com.
+SPEAKER_02
+732.05--734.9
+ That's correct. Yep, just my last name at gmail.com.
+SPEAKER_01
+734.9--741.2
+ Perfect and you will get an email between one two hours if you need anything else feel free to give us a call back. Okay?
+SPEAKER_02
+742.25--743.8
+ Will do. Thank you so much.
+SPEAKER_01
+743.8--745.9
+ You're welcome. Thank you for coming for our Center
+SPEAKER_02
+747.05--747.5
+ Take care.

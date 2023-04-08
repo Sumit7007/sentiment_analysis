@@ -1,0 +1,51 @@
+SPEAKER_00
+8.3--15.2
+ Thank you for calling CHEESETRAVELHELP-DAS. My name is Eileen. How may I help you? Yes, hi. I'm...
+SPEAKER_01
+15.2--29.2
+ I'm trying to book these. I booked a flight to yesterday, to Calgary. And I thought I was booking, I requested Premium Economy.
+SPEAKER_01
+29.75--55.2
+ But when the tickets came in yesterday, they were only premium. And I mean, they were only economy. They weren't premium. And so I called Air Canada and they said, well, they don't have any premium economy on that. So I thought, well, okay, I'll keep these seats. But I wanted to pick my seats.
+SPEAKER_00
+55.2--67.7
+ Okay, alright, I do understand that you need to pick a seat assignment. By the way, just to verify first, let me know for digit of your credit card number.
+SPEAKER_01
+69.95--72.9
+ Oh, what did you need, my credit card number?
+SPEAKER_00
+73.25--106.6
+ Yes, please. All right, thank you so much. And how about your billing zip code? Can I? Is that correct? Yes, yes, all right, thank you so much. All right, just to reply if they know how I am speaking wind.
+SPEAKER_01
+107.55--109.1
+ Maureen McMenamin.
+SPEAKER_00
+109.1--123.9
+ Alright, you are the card holder. Alright, and since you wanted to speak for the seats, may I have the trip ID number?
+SPEAKER_01
+124.75--160.9
+ Yeah, the trip ID is C354PMKRX. All right, thank you so much. You know, I tried to book these seats online, and it said I wasn't able to do it. But it looks like now, as I was waiting for you, it looks like I can do it now online. So I'll just go ahead and select my seat.
+SPEAKER_00
+160.9--212.9
+ Yes, I do understand that you need to check for the seat assignment, but let me check first for the flight based on the trip ID number that you provide. You have here a flight reservation that is under Air Canada. For the departing, for the outbound, it will be EWR. Going to, let me check on this one, that is July 28th. And for the returning flight will be September, ah okay, sorry about that because I thought that it is already past. I will that next year.
+SPEAKER_01
+212.9--224.9
+ It's color fear, yes. But I couldn't do this, I mean, you can. I'm looking online and it looks like I can just book this.
+SPEAKER_01
+225.45--229.3
+ So I might as well just go ahead and do that.
+SPEAKER_00
+230.65--278.7
+ Yeah, sure. Let me help you with that. Let me check that is that is Air Canada and sometimes I need to request that directly to that airline or maybe there is an option but let me check first in here on the end. So just to verify that the departing date will be July 28, 2023 and the returning flight will be that is August 8, 2023. All right, so that is economy class. So let me check if there is an option for us to check for you or to request for you a seat assignment here on my end. Okay. All right.
+SPEAKER_01
+278.7--296.6
+ Well, let me ask this. If I take a seat that is a preferred seat and so it's, you know, extra money, can I still use my points for that? Can I put in extra money or no?
+SPEAKER_01
+297.25--297.3
+ you
+SPEAKER_00
+297.3--308.4
+ Yeah, it all depends to the airline, which is the Air Canada, if they will accept for the points.
+SPEAKER_01
+308.4--318.5
+ Thank you for your help. I'm just going to do this now online. I have it all up here. Thank you.

@@ -1,0 +1,198 @@
+SPEAKER_01
+1.3--9.2
+ Welcome and thank you for calling the Chase Ultimate Awards Solar Centre. This is Alex and I'm your travel advisor. May I have your phone please?
+SPEAKER_00
+11.15--12.4
+ My name is Scott Schwartz.
+SPEAKER_01
+14.75--16.4
+ By the way, what's your last name?
+SPEAKER_00
+17.65--29.7
+ Swart, F-C-H-W-A-R-T-Z. Swart, F-C-H-W-A-R-T-Z.
+SPEAKER_01
+29.7--40.6
+ Alright so, Mr. Scott, may I please... Oh, by the way, are you calling for a new reservation or existing reservation?
+SPEAKER_00
+42.05--53.1
+ I have an existing reservation that I need to put my infant, lap infant, on. It's an international flight and he's not on the reservation so I need to add him to the reservation.
+SPEAKER_01
+54.35--73.7
+ Alright sure, and for that one I would be happy to assist you with that. Okay so, Mr. Scorts, but before we proceed on that, could you please verify to me your system needed credit card number to pull up your account.
+SPEAKER_00
+75.55--76.9
+ Yeah, it's uh...
+SPEAKER_01
+87.15--103.0
+ All right, thank you so much and may I please have your billing zip code? All right, so your billing zip code is The correct
+SPEAKER_00
+104.15--104.5
+ Yeah.
+SPEAKER_01
+109.75--120.6
+ I'm sorry to hear about that. Please bear with me. Is that correct?
+SPEAKER_00
+122.25--122.7
+ No.
+SPEAKER_01
+126.05--128.199
+ I'm sorry again.
+SPEAKER_00
+130.85--132.7
+ Correct.
+SPEAKER_01
+136.25--146.6
+ And please wait. Let me pull up your account first. And then once I'm done with that, I will get back to you, okay? Yeah. Thank you so much.
+SPEAKER_02
+212.65--275.1
+ the numbers as well. Thank you.
+SPEAKER_01
+280.75--282.3
+ Hello, Mr. Squire.
+SPEAKER_00
+283.55--283.9
+ Yeah.
+SPEAKER_01
+285.05--291.5
+ Hi, thank you so much for patiently waiting. By the way, we need to record.
+SPEAKER_01
+292.95--293.9
+ How are you doing today?
+SPEAKER_00
+295.55--296.2
+ I'm fine.
+SPEAKER_01
+297.25--306.7
+ Alright, I'm glad to read that from you. Okay, so... How may I help you today?
+SPEAKER_00
+308.35--316.3
+ I need to add my instant last flight reservation for tomorrow night.
+SPEAKER_01
+318.25--364.0
+ Alright, sure. No worries. But first, before we proceed, Mr. Squirt, may I please have your best callback number? So I may call you back, just in case the call gets disconnected. Alright, thank you so much. And this is from Chase Happer, preferred with Ultimate 2 Orange. Alright, so for the existing reservation, what you said earlier, may I please have your trip ID or ITR number to check about your trip details? Alright, so for the existing reservation, what you said earlier, may I please have your trip ID or ITR number to check about your trip details?
+SPEAKER_00
+365.75--368.0
+ You want the flight confirmation number?
+SPEAKER_01
+369.65--370.8
+ Um...
+SPEAKER_00
+371.25--382.7
+ It's best to look it up that way. Here's the confirmation under. He isn't Peter. It H isn't hat. He is an eagle and is in Nancy the number five and the number two.
+SPEAKER_01
+385.85--389.0
+ What about the trip ID? Do you have a trip ID?
+SPEAKER_00
+390.35--394.1
+ I do, but could you look it up via the confirmation?
+SPEAKER_01
+394.95--400.5
+ Alright sure, so I'll be the one to look with your trip ID alright?
+SPEAKER_00
+411.55--413.1
+ You want the trip ID number?
+SPEAKER_01
+416.35--421.7
+ Yep, but if you want I'll be the one to check about your trip ID
+SPEAKER_00
+423.25--425.7
+ The trip ID is, do you want it? I have it.
+SPEAKER_02
+427.45--428.5
+ you
+SPEAKER_01
+429.15--431.5
+ All right, sure. Can you please give it to me?
+SPEAKER_00
+433.45--446.9
+ G as in Greg, T as in Tom, M as in Mary, X as in X-ray, the number eight, D as in dog, S as in style, H as in hat, and the number five.
+SPEAKER_01
+447.55--473.0
+ Alright, thank you so much and by the way, um, mr Squire, so I will repeat the trip ID for my verification purposes. So it is single T as in tango and as in Mike accessing x-ray 8 D as in Delta as a sinchera H as in hotel and then 5 is that correct?
+SPEAKER_00
+474.35--474.9
+ Correct.
+SPEAKER_01
+475.85--510.9
+ All right, thank you so much. And about your trip ID. I've seen here this is an existing product observation. I understand by passenger name Mr. Scott Quartz. Airline from United Airlines. Departure from San Jose del Cabo International Airport, Mexico. November 30, 2022. And then going to
+SPEAKER_01
+511.75--520.0
+ San Francisco International Airport and this is for a one-way trip.
+SPEAKER_00
+520.0--520.2
+
+SPEAKER_01
+520.749--535.0
+ with your Erlang confirmation code, P as in Papa, H as in Hotel, E as in Echo, N as in November, and then 5 and then 2. Is that correct?
+SPEAKER_00
+536.75--537.2
+ Yeah.
+SPEAKER_01
+537.95--540.6
+ Alright, and this is for two passengers only.
+SPEAKER_00
+542.75--546.4
+ Right, and the last instant, which that's why I'm calling.
+SPEAKER_01
+547.05--557.9
+ Alright, sure. For that concern, Mr. Squark, may I please go on hold for just three minutes to check your account?
+SPEAKER_00
+560.65--561.2
+ Yeah.
+SPEAKER_01
+561.85--562.9
+ Thanks so much. Thank you.
+SPEAKER_00
+562.9--565.5
+ you can. Yeah, it is.
+SPEAKER_01
+565.5--576.1
+ Yeah, because that is regarding for the lap intent to add in the reservation. Yeah, please. Yep, sure. Thank you. Thank you.
+SPEAKER_01
+578.05--580.8
+ Alright, so one moment please. Thank you.
+SPEAKER_00
+584.35--585.3
+ You are on hold.
+SPEAKER_02
+705.75--706.0
+ you
+SPEAKER_01
+712.45--727.3
+ Hello, Mr. Squarts. Hi, thank you so much for patiently waiting. By the way, Mr. Squarts, may I ask, what is the age of the lab in Flint?
+SPEAKER_00
+729.15--730.9
+ 19 months old.
+SPEAKER_01
+731.85--741.5
+ Okay, so 19 months old. Alright, thank you so much. Okay, so regarding with the infant, Mr. Squirt.
+SPEAKER_00
+744.75--745.0
+ Yeah.
+SPEAKER_01
+748.05--754.7
+ I will need to transfer you to other departments to add the lap infant in your reservation.
+SPEAKER_02
+758.25--759.2
+ OK.
+SPEAKER_01
+759.2--762.2
+ All right, thank you so much. So please wait.
+SPEAKER_01
+790.45--793.5
+ Alright, thank you so much for patiently holding Mr. Squirt.
+SPEAKER_00
+794.75--795.3
+ Mm-hmm.
+SPEAKER_01
+795.55--818.7
+ So Mr. Squarts, to address your request, I will need to transfer you to another A-specialist. Please note that if the expected wait time exceeds five minutes, you may be offered a callback. If you choose to receive a callback versus waiting for the next available agent, please follow the prompt.
+SPEAKER_00
+820.85--821.2
+ Yeah.
+SPEAKER_01
+821.95--828.8
+ Let me provide you with your crypt ID to give to the next agent.
+SPEAKER_00
+828.95--830.3
+ Okay, uh-huh

@@ -1,0 +1,132 @@
+SPEAKER_02
+2.8--10.3
+ Thank you for calling the Chase Travel Help Desk. My name is Francis and I will be your travel consultant for today. Can I have your full name please?
+SPEAKER_04
+11.55--13.5
+ Hi, yeah, my name is Carolyn Harris.
+SPEAKER_02
+14.75--20.4
+ Thank you, Ms. Harris. Can I also have your 16-digit credit card number and your zip code, please?
+SPEAKER_04
+21.75--24.1
+ Yes, my critical number is
+SPEAKER_02
+35.65--37.2
+ Thank you.
+SPEAKER_04
+37.2--38.9
+ My regarding doubt it.
+SPEAKER_02
+43.05--57.8
+ Thank you. All right. I'm going to fill up your account one moment.
+SPEAKER_04
+58.95--59.2
+ Okay.
+SPEAKER_02
+65.25--68.2
+ Alright, because Harry, I hope you have the account open. How may I help you?
+SPEAKER_04
+69.55--100.9
+ Yeah, so I was just talking to somebody else, but I have a flight that is today from Philadelphia to Seattle, but I would like to, if possible, cancel it and get maybe some travel credit back or something because just due to some things that are changing, I'm now going to be flying from Philadelphia to Austin, Texas on Friday instead. So I was just calling to see if I could cancel and get any flight credit or anything like that.
+SPEAKER_02
+102.55--121.4
+ I say, let me go ahead and check the reservation first and to set up an expectation right now. My manual tool is not working in order for me to verify how much will be the credit, but I'm going to consult another my colleague from the supervisors line as well. So that we can check. Okay. Okay. Just going to have this one pulled up.
+SPEAKER_02
+122.15--132.1
+ So just to verify the trip ID is are you referring to the 3 6 9 T F P S 5 H?
+SPEAKER_04
+134.25--139.5
+ um i Yes.
+SPEAKER_02
+141.05--147.0
+ Okay, so this is the route to picket from Seattle to Philadelphia, Philadelphia to Seattle, right?
+SPEAKER_04
+147.0--148.5
+ Right.
+SPEAKER_02
+149.55--155.8
+ So you wanted to cancel this whole itinerary and see if you can get the travel credit correct?
+SPEAKER_04
+156.95--168.5
+ Yeah, so I've already done half of it. I'm in Philadelphia already since that was the first half was on Friday, but I wanted to see if I could cancel the return site and get any amount of credit. That would be great.
+SPEAKER_02
+169.75--190.5
+ I understand. Let me go ahead and check and see what we can do when we're going to check how much will be the remaining value of the ticket and let's see. We're going to base it on the farewells of the reservation if we can try to convert it into travel credit. So stay on the line, Ms. Harris. Okay. I'm going to get one of my co-supervisors here. One moment.
+SPEAKER_04
+191.45--192.1
+ All right, thank you.
+SPEAKER_02
+196.05--204.0
+ Uh, anyway, Miss Harris, would you mind if I can have your best callback number and your consent for us to call you back if our call gets disconnected?
+SPEAKER_04
+204.95--207.7
+ Yeah, for sure you can call me back. My phone number is
+SPEAKER_02
+212.95--216.0
+ Thank you so much. I'm going to put you on hold. I'll be back to you within five minutes.
+SPEAKER_04
+216.85--217.6
+ Okay, thank you.
+SPEAKER_01
+219.05--341.9
+ You are on hold. You are on hold. You are on hold. You are on hold. You are on hold.
+SPEAKER_00
+354.45--375.6
+ Please listen carefully to each menu as options have changed for many of the clients. For voice or car or hotel changes, press 1. For help desk, press 2. For exchanges, press 3. For cruise and tour, press 4. For schedule change, press... For chase, press 1. For chase travel call, press 1.
+SPEAKER_03
+383.85--391.3
+ Welcome and thank you for calling Ultimate Rewards. My name is Ali. I will be your travel advisor for today. Now please send your name.
+SPEAKER_02
+392.55--426.7
+ Hi Ali, my name is Francis. I am one of your co-travel help desk agents from the Ultimate Rewards. I have Ms. Caroline Harris here who is calling in to cancel her return flight. So this is a partially used ticket and looking if she can check or have a travel credit once we cancel the return flight of her reservation. However, Ali, right now, my workspan is still deactivated or unable to access so I'm still waiting for the feedback about it. So I get permission to ask assistance to another help desk with the sedative.
+SPEAKER_02
+427.55--427.6
+ you
+SPEAKER_03
+427.6--437.1
+ It's okay. You don't need to worry, Francis. I'm here to help you. But I need the details of the card number. Would you mind providing the card number and the billing zip to the place?
+SPEAKER_02
+437.85--454.4
+ sure billing zip code is and I'll be I believe that call got disconnected
+SPEAKER_02
+454.95--456.8
+ Oh, yeah.
+SPEAKER_03
+456.8--461.2
+ All right. Would you like me to call back the card member if you want? Do you have the...
+SPEAKER_02
+461.2--468.5
+ Yeah, actually I was able to ask for permission if ever a call got disconnected we can call her back. This is the best call back number
+SPEAKER_03
+468.5--481.9
+ What's the trip ID number?
+SPEAKER_02
+483.05--486.6
+ Yeah, the only camera.
+SPEAKER_03
+486.6--516.2
+ Let me check first and okay American Airlines flight, Perceles, start it right here. Alright what I'm going to do right now, would you mind staying on the line? Let me call the card number first before I disconnect the call.
+SPEAKER_04
+516.249--516.7
+ Okay?
+SPEAKER_03
+517.35--528.0
+ in order for me to at least capture it while on the recording. Give me at least three to five minutes, I'm going to place this column home. Oh, thank you. You're welcome.
+SPEAKER_05
+544.35--573.0
+
+SPEAKER_03
+581.45--601.4
+ All right, Francis, thanks for waiting patiently. Actually, the phone just ringing. No one sends, right? Well, I believe there's an important matter that Ms. Harris needs to take care of, but no worries. Ms. Harris will probably just give us a call back, whatever she needs in the system.
+SPEAKER_03
+602.15--605.9
+ with cancellation. Anything else that I can help you with?
+SPEAKER_03
+606.75--607.9
+ Frank this is
+SPEAKER_02
+607.9--612.9
+ Thank you so much for your assistance, Ali.
+SPEAKER_03
+612.9--616.7
+ Enjoy the rest of your shift and my name is Ali from the help desk. Take care.

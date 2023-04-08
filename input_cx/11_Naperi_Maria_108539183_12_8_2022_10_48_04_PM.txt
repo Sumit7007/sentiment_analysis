@@ -1,0 +1,102 @@
+SPEAKER_01
+0.0--6.2
+ Thank you for calling HealthTEST. My name is Tony, and I'll be your travel advisor today.
+SPEAKER_00
+6.2--15.4
+ I'm sorry, Carly.
+SPEAKER_01
+15.4--15.7
+ on.
+SPEAKER_00
+16.35--16.7
+ Oh,
+SPEAKER_01
+17.15--34.5
+ Ms. Carly. Carly is your first name? Yes. Hi. How are you Ms. Carly? I'm okay. I'm fine. Oh, I'm sorry to hear about that. You have to start off. Can you provide some advice on your card number? Let me access your profile first.
+SPEAKER_00
+34.5--36.4
+ Yes.
+SPEAKER_01
+48.35--62.8
+ All right. And how about a zip code, please? Thank you so much. And just to ask, are you calling for an existing reservation or a new reservation?
+SPEAKER_00
+63.85--66.0
+ I would like to think about getting move on to hear Pichai wildflowers which involves a…."ries from the audience together accidently Paola? Greg has her hand up some questions. No.
+SPEAKER_01
+66.0--74.5
+ Okay, thank you. I'll just pull this out first. Ms. Carly, sorry, can you verify one more time your last name, please?
+SPEAKER_00
+75.65--80.3
+ L-E-V-E-M-S-H-O-N.
+SPEAKER_01
+81.35--92.2
+ Okay, so that's Levenshon, if I got it pronounced correctly. Okay, thank you. And we have a trip ID from Chase that we need to work on today.
+SPEAKER_00
+93.15--114.4
+ I think, you know, it's 9-7-D-R-3-C-F as in Frank, F as in Sam, V as in Victor. Okay, let me change.
+SPEAKER_01
+114.4--124.2
+ Check on that. So that's 97 Delta Romeo 38 Phosphor Sierra Victor.
+SPEAKER_00
+125.05--125.8
+ We're happy.
+SPEAKER_01
+125.95--147.8
+ Okay, perfect, and I was able to retrieve that in here. It's showing me here that it's with JetBlue Airways and The ticket is under your name. It's Carly Levinson and this is the site from New Orleans and going to Fort Lauderdale on December 12 of this year.
+SPEAKER_00
+148.55--149.1
+ Mm-hmm.
+SPEAKER_01
+149.45--151.6
+ All right, thank you. How can I help you?
+SPEAKER_00
+153.15--171.9
+ I had COVID and I shouldn't be flying on Monday. I already booked another site to leave on Wednesday, which my doctor said would be good time to fly again. And I was looking to get these points re-entered.
+SPEAKER_01
+171.9--209.1
+ Okay, I'm so sorry to hear about what happened. But definitely will help you to check the possible resolution in your trip. So just want to make sure that you want to cancel the trip with Jadwara this coming Monday on the 12th or December. Now let me have a look in here, the policy first of the ticket. Let me see what I can do. And then we will provide you the best option that we have. Of course, from JetBlue as well. But before I do that, can you provide to me the best number three?
+SPEAKER_00
+210.05--210.7
+ Thank you.
+SPEAKER_01
+210.7--211.5
+
+SPEAKER_01
+216.05--224.4
+ I'm sorry. What did you just ask for? Your best contact number if ever the line gets disconnected you know I can ring back.
+SPEAKER_01
+230.85--245.8
+ Alright, thank you. That's 786-210-4323. Thank you so much. Let me just go ahead and double check the options for you and I'll get back. If you take your time, it's 3 to 5 minutes, okay? Please stay with me.
+SPEAKER_01
+246.55--246.8
+ Thank you.
+SPEAKER_00
+246.8--247.4
+ Thank you.
+SPEAKER_01
+247.4--249.4
+ Thank you so much. One moment.
+SPEAKER_00
+250.65--251.6
+ You are on hold.
+SPEAKER_01
+339.05--390.5
+ Thank you so much for your patience Ms. Levinshan. Alright, so I tried to check first the fare-worth of the ticket. And seeing here on the restrictions, actually it's a non-refundable ticket. But I can see another option that we can place this booking on the credit, which is valid for a year from the date of purchase. So if you want to, we can go ahead and cancel the reservation and put this on, it's like a travel bank with JetBlue. Now if ever you wish to proceed on, I mean to use this in the new ticket or new flight, all you have to do is to call us back in here and we can check what's the rate. Because upon credit utilization there will be no change fee. However, if there's any fare and tax difference, passenger needs to pay for it. And it should be within the same carrier JetBlue.
+SPEAKER_00
+393.35--403.7
+ Okay, I think that should work. Can I call back tomorrow? Oh sure, that would still be available to me.
+SPEAKER_01
+404.15--431.0
+ Yeah, yeah, that's fine. I just want to advise that at least 24 hours prior to scheduled departure you can ring us back in here for your decision. Okay? Do you think you should be here? No problem. Not a problem. So I will not touch anything for now. It's still confirmed on Monday. Now call us back in here. We're open 24-7. Just provide a trip ID number, okay? And I'll leave proper documentation as well on the reservation that we're going to wait for your call.
+SPEAKER_01
+431.85--432.0
+ Thank you.
+SPEAKER_00
+432.0--433.4
+ Thank you so much, appreciate your help.
+SPEAKER_01
+433.75--445.3
+ Not a problem anytime Miss Levenshon is there anything else? If you need help from me, it's right from there. That's all, thank you. Okay, have a good one, keep safe and have a good night.
+SPEAKER_00
+445.3--446.3
+ Thank you.

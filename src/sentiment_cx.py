@@ -15,8 +15,8 @@ import codecs
 from tqdm import tqdm
 import time
 
-folder_path = r'C:\Users\sumit.shirole\Project\Sentiment_Project\input'
-excel_path = r'C:\Users\sumit.shirole\Project\Sentiment_Project\output\ouput.xlsx'
+folder_path = r'C:\Users\sumit.shirole\Project\Sentiment_Project\input_cx'
+excel_path = r'C:\Users\sumit.shirole\Project\Sentiment_Project\output_cx\ouput_cx.xlsx'
 
 class sentiment_analysis:
     
@@ -39,10 +39,10 @@ class sentiment_analysis:
 
     def sentiment(self,token_sent):
         # print('inside sentiment')
-        MODEL = f"nlptown/bert-base-multilingual-uncased-sentiment"
+        MODEL = f"cardiffnlp/twitter-xlm-roberta-base-sentiment"
 
         try:
-            shutil.rmtree("nlptown")
+            shutil.rmtree("cardiffnlp")
         except:
             pass
 
@@ -69,17 +69,13 @@ class sentiment_analysis:
             l = config.id2label[ranking[j]]
             # s = scores[ranking[j]]
 
-            if l == '1 star':
-                sent_list.append(1)
-                # sent_list.append(5)
-            elif l == '2 stars':
-                sent_list.append(2)
-            elif l == '3 stars':
-                sent_list.append(3)
-            elif l == '4 stars':
-                sent_list.append(4)
-            elif l == '5 stars':
+            if l == 'positive':
                 sent_list.append(5)
+			    # sent_list.append(5)
+            elif l == 'neutral':
+                sent_list.append(3)
+            elif l == 'negative':
+                sent_list.append(1)
 
         return sum(sent_list)/len(sent_list), sent_list
 

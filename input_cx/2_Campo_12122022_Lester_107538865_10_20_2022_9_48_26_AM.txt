@@ -1,0 +1,204 @@
+SPEAKER_03
+2.8--10.2
+ Thank you so much for calling Travel Help Desk. I'm going to discuss doing all of your supervises today. You may have your first and last name.
+SPEAKER_00
+11.45--12.4
+ Kelly Laursen?
+SPEAKER_03
+14.75--19.8
+ Thank you so much Ms. Laversen. I wonder if you are calling regarding the family booking for any 15 minutes.
+SPEAKER_00
+21.45--27.1
+ Um, kind of neither. I'm calling about my account as a whole.
+SPEAKER_03
+29.65--32.8
+ I'm going to show you my account. I may know what happened to your account.
+SPEAKER_00
+34.15--73.9
+ Yeah, so, well I'm trying to, I had a trip interruption with one of my past flights, so I'm trying to submit a reimbursement claim through the company that you all work with, and they keep saying that I need to show like my credit card statement where I purchased the flight, but I didn't purchase the flight using my credit card, I purchased the flight using my points, so I need something that like shows that I clearly earned those points, use those points to purchase that flight, and it has my account number on it and my name. There's all the documentation that I have that doesn't have my account number on it.
+SPEAKER_03
+75.75--93.2
+ I understand that you are trying to have a reimbursement regarding with your previous trip, but did you purchase the trip in here with Ultimate Collides? Can you please, or do you have a trip ID for me so I can share? Yes. Okay, thank you.
+SPEAKER_04
+94.65--99.2
+ Let me pull it up.
+SPEAKER_00
+110.15--120.1
+ um it's k 5 p x q g j p 3
+SPEAKER_03
+122.45--146.4
+ So it'll be K for kilo, number five Peter, X-ray, Q for kun, G for George, J for Juliet, T for tango, number three. Okay. And how about your building zip code? I mean, this is the only reservation that we are working with today.
+SPEAKER_00
+147.75--148.1
+ Yeah.
+SPEAKER_03
+151.15--180.6
+ All right, and I see here that this is your case that I preferred with ultimate awards. And the reservation is for Kelly Larson and Paul Anthony Edwards. This is with Lufthansa, German Airlines from France, I mean, no, that's right.
+SPEAKER_04
+182.55--182.8
+ Thank you.
+SPEAKER_03
+182.8--183.4
+ And.
+SPEAKER_04
+183.4--183.5
+ you
+SPEAKER_03
+185.75--196.2
+ May I know what happened for the reservation? Why are you... Yeah, there was a pilot. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay.
+SPEAKER_00
+196.2--200.3
+ strike. Oh, so you never 24 hour pilot strike.
+SPEAKER_03
+200.3--203.8
+ So you never take in the time?
+SPEAKER_00
+203.8--211.9
+ booked on a... I was rebooked on another flight the next day but it was over 12 hours delay which is why I'm submitting the reimbursement claim.
+SPEAKER_03
+214.75--269.3
+ I understand and I really do apologize for the inconvenience. Let me go ahead and check the notes that you put in on your account. So they took the flight, it's just that it was delayed. Okay.
+SPEAKER_02
+270.45--270.9
+ Mm-hmm.
+SPEAKER_03
+272.35--273.8
+ So you're never taking the flight.
+SPEAKER_00
+275.15--283.8
+ No, I did take the flight and I just need something that shows that I actually bought that airfare using my ultimate rewards.
+SPEAKER_02
+283.8--285.6
+ Thank you.
+SPEAKER_04
+288.35--288.8
+ Thank you.
+SPEAKER_00
+289.25--291.5
+ That includes my name and my account number.
+SPEAKER_03
+299.25--317.1
+ So please bear with me with this one. Let me go ahead and check if I could send you a copy of the email regarding the account number that you've used in purchasing this price. One moment please, I'll be switching this phone for about 10 minutes. One moment.
+SPEAKER_04
+317.1--318.6
+ Okay.
+SPEAKER_02
+320.55--379.0
+ You are on hold. You are on hold.
+SPEAKER_03
+381.65--396.0
+ for that hold but I may have your best call back number just in case our call gets disconnected would I be able to call you back?
+SPEAKER_02
+407.25--971.1
+ You are on hold. You are on hold. You are on hold. You are on hold. You are on hold. You are on hold. You are on hold. You are on hold. You are on hold. You are on hold. You are on hold. You are on hold. You are on hold. You are on hold. You are on hold. You are on hold. You are on hold. You are on hold. You are on hold.
+SPEAKER_04
+973.65--974.0
+urgent mob.
+SPEAKER_02
+981.05--981.5
+ Hello man
+SPEAKER_04
+981.95--982.3
+ Thank you.
+SPEAKER_03
+989.85--1074.4
+ Hello? Can you hear me? Hello? Hello, man, can you hear me? Hello? Hello, man? Hello, man, can you hear me? I can hear something. Hello? Hello, man? I can hear something in the background. Hello?
+SPEAKER_04
+1074.95--1075.2
+ Thank you.
+SPEAKER_03
+1076.05--1125.9
+ Hello. OK. Hello? Hello, Ms. Larson.
+SPEAKER_04
+1129.95--1133.5
+ Thank you.
+SPEAKER_03
+1139.55--1184.7
+ Hello? Hello, ma'am. Hello, Miss Larson, can you hear me?
+SPEAKER_04
+1184.7--1191.0
+ Thank you.
+SPEAKER_03
+1196.55--1197.1
+ Bye bye.
+SPEAKER_04
+1198.45--1198.7
+ Yes?
+SPEAKER_03
+1200.05--1210.9
+ Oh, yeah, I read up all just for that whole, but can you please provide me your best call back number just in case our calls disconnected. So I can call you back.
+SPEAKER_04
+1210.9--1212.7
+ Yeah.
+SPEAKER_03
+1222.45--1281.0
+ And yeah, I just sent you an email. Can you please check the email on the bottom part? You can see there on the payment summary, the amount of the ticket and the points that you've used in purchasing the slides. Please let me know if you received the email.
+SPEAKER_04
+1405.25--1405.8
+ Thank you.
+SPEAKER_03
+1409.95--1411.4
+ Did you receive the email, ma'am?
+SPEAKER_00
+1413.05--1414.3
+ Let me check.
+SPEAKER_03
+1415.35--1415.9
+ Thank you.
+SPEAKER_00
+1420.85--1440.7
+ So I have, I already have this email. It's, it's, I guess not enough. Um, cause if you look at the bottom, it says like for your account ending in it, and there's no account number there. So I don't, I'm just confused what, how, I mean, this is a service that Chase provides how I was expected to use it.
+SPEAKER_03
+1442.35--1460.2
+ Oh, I understand and I really do apologize. It's just that it's for the security of the account. But yeah, let me go ahead and reach one of the card member services for them to check if they can send you this statement of the point. Yeah, and then I-
+SPEAKER_00
+1460.2--1473.0
+ Yeah, the reimbursement letter says, I need a copy of the monthly billing statement. Join the last four digits of the account number verifying that the travel fare was purchased with your covered card.
+SPEAKER_04
+1473.25--1473.4
+ Thank you.
+SPEAKER_02
+1473.4--1473.5
+ you
+SPEAKER_03
+1474.35--1475.6
+ I understand.
+SPEAKER_00
+1475.6--1477.4
+ it with my card I purchased it with points.
+SPEAKER_03
+1477.75--1504.8
+ points. I do understand that. Yeah, let me go ahead and transfer you over. So let me please just call and hold for about 10 minutes for me to contact the card member services who can send you the statement for the month that you purchased the flight. But yeah, let me contact them. So it's okay if I put you on hold for another 10 minutes. Yeah, that's fine. Yeah.
+SPEAKER_02
+1506.35--1507.2
+ You are on hold.
+SPEAKER_01
+1543.65--1582.1
+ This call will be monitored and recorded, and your voice may be used for verification. Welcome to Chase Card Services! Please enter your full 16-digit credit card account number. If you are calling to report your card lost or stolen, press 1. If you are calling to replace... The option you selected is not available. If you are calling to report your card lost or stolen, press 1. If you are calling to replace... The option you selected is not available. If you are calling...
+SPEAKER_00
+1589.05--1591.5
+ Hi, this is Christina Chase. May I have your name, please?
+SPEAKER_03
+1592.75--1648.1
+ Hi Christine, this is Lester with CXYLT, one of the supervisors and we do have here on our card number on the backline, Ms. Kelly Leverstein and she is asking for an email for the statement and then with the last four digits of her card because she purchased the flight with Oklahoma towards using her points but she is requesting for a month of September statement so she can file a reimbursement directly with the airline. I don't have the 16-digit credit card number with me but I'm sure that the card number can provide that. Is it okay if I introduce you to her?
+SPEAKER_04
+1649.05--1649.8
+ Okay.
+SPEAKER_03
+1652.55--1662.6
+ So, let me go ahead and introduce you please stay connected. Hello, Mr. Morrison.
+SPEAKER_04
+1663.85--1664.2
+ Yeah.
+SPEAKER_03
+1664.35--1697.7
+ Thank you so much for holding, and we do have here, Kristy, one of the card member services who will assist you regarding the statement request. And she may be asking some questions to verify your account. So, yeah, so would there be anything else that I could assist you with? Aside from answering your question? Thank you so much for your time. So, please feel free to call us anytime or visit ultimaterewards.com in front of your future travel needs. And thank you so much for calling the Chase Ultimate Rewards Travel Center.
+SPEAKER_03
+1698.25--1699.2
+ Stay safe for both of you.
+SPEAKER_00
+1699.35--1700.0
+ Thank you.
+SPEAKER_03
+1700.45--1701.1
+ Bye-bye.

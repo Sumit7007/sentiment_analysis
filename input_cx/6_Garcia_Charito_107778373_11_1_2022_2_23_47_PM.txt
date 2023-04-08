@@ -1,0 +1,270 @@
+SPEAKER_03
+2.7--7.9
+ Thank you for calling the Chase Travel Help Desk.
+SPEAKER_04
+7.9--11.9
+ I'm sorry but it's you mean? I'm not an expert.
+SPEAKER_02
+11.95--12.1
+ Microsoft Word Document MSWordDoc Word.Document.8
+SPEAKER_01
+12.1--12.2
+ Thank you.
+SPEAKER_04
+13.75--19.9
+ I'm sorry, your line is cutting and up. You can upload a hearing. My name is CJ.
+SPEAKER_04
+20.55--82.4
+ Oh, I see. Alright, CJ, this is Alexa from Taze Ultimate Hawaii. Please be advised that this call has been monitored and recorded. So I have here a card member on the other line, the chair of the city, Sean. And this is, I mean, the thing is the card member mentioned that he called directly the airline and then they told that they can locate her. I mean, his reservation. And upon checking the reservation, it is still active here in our end. So that's why I already advised the card member to provide the ticket number. However, the card member started off with a supervisor. So I need your help for further assistance regarding the request for, I mean, the request of the card member.
+SPEAKER_03
+84.45--87.3
+ So can I have the card number?
+SPEAKER_04
+88.25--90.0
+ Alright, our number is...
+SPEAKER_03
+99.85--108.8
+ And the building ship code. Building ship code is. Give me one moment here.
+SPEAKER_02
+108.8--109.3
+ Mm-hmm.
+SPEAKER_03
+121.85--126.2
+ Or they cannot locate the reservation? Maybe then we can look at it again.
+SPEAKER_01
+126.65--127.1
+ you know
+SPEAKER_03
+127.1--127.3
+ Thank you.
+SPEAKER_04
+127.3--128.1
+ That is correct.
+SPEAKER_03
+128.1--135.4
+ So did they provide you with any trip ID of this reservation?
+SPEAKER_04
+135.45--148.1
+ Yes, he provided a trip ID. Would you like to provide it to me?
+SPEAKER_03
+148.1--151.9
+ Can I have the two pages please?
+SPEAKER_04
+151.9--164.2
+ The M4 Momo number 7, T4 Tango, M4 Nancy, number 3, S4 Sarah, H4 Hotel, K4 Kalo, F4 Fox...
+SPEAKER_03
+166.05--168.2
+ so much just give me one moment here.
+SPEAKER_04
+168.2--169.1
+ Sure thing.
+SPEAKER_03
+176.75--180.7
+ And I can see that this is for United Airlines.
+SPEAKER_04
+180.7--199.5
+ Mm-hmm. Okay, so while you're looking for that one, I'll go ahead and go back with our card number. Would that be fine? Yes, sure, sure, sure. All right, how then? Okay.
+SPEAKER_01
+212.35--248.9
+
+SPEAKER_04
+250.85--252.8
+ Hello. Hello.
+SPEAKER_03
+252.8--257.5
+ Hi, can I have the call back number?
+SPEAKER_04
+258.05--260.1
+ Alright, call book number is...
+SPEAKER_03
+270.15--280.6
+ So it's going to be. That's right, yeah, that is right. And I may I know the full name of the passenger.
+SPEAKER_04
+280.6--280.7
+ here.
+SPEAKER_03
+281.25--281.4
+ you
+SPEAKER_04
+281.4--285.4
+ Alright, he is Mr. Piper Vissiturson.
+SPEAKER_03
+285.85--288.8
+ Okay, thank you so much. Alexi?
+SPEAKER_03
+289.85--292.4
+ You can connect over the card number. Thank you.
+SPEAKER_04
+292.4--297.9
+ Thank you so much for your help, CB. It's called in here from...
+SPEAKER_01
+297.9--336.5
+
+SPEAKER_04
+337.85--351.5
+ Hi CJ, I have here an archive member on the other line, Mr. RBC Pashawn, and I'll go ahead and excuse myself for your privacy. I have dated both of you. We do have a wonderful day. Bye for now. You as well. Bye bye.
+SPEAKER_03
+351.5--358.6
+ Hi, thank you for calling the Chase Travel Help Desk. My name is CJ. How may I help you?
+SPEAKER_02
+359.35--377.3
+ Hi CJ, I'm calling up to follow up in regards to my reservation. It's still a case here under the Chase travel information that the flight details are so valid. I just checked the denider and evidently this particular flight has been cancelled but I never got an application.
+SPEAKER_03
+379.65--388.9
+ The advice that this call is monitored and recorded, okay, Mr. Yes. And may I verify your full name, please?
+SPEAKER_02
+389.65--392.0
+ Search on the Piper lesson Roll.
+SPEAKER_03
+392.55--402.6
+ Okay, Mr. Resurgent. So I can see that this is chase of our preferred with ultimate reward card and may I verify your zip code please?
+SPEAKER_02
+403.45--403.9
+ Yes.
+SPEAKER_03
+405.25--427.4
+ Thank you so much, Mr. Reseet Ashram. So the agent had already provided the trip ID, which is M4 Mary, number 7, Tango, November, number 3, Sherra, Hotel, Kilo, Foxtrot. Is that right?
+SPEAKER_02
+427.4--427.8
+ Thank you.
+SPEAKER_03
+429.75--433.0
+ And this is for three passengers, correct?
+SPEAKER_02
+433.0--433.7
+ Yes, it is.
+SPEAKER_03
+434.15--434.8
+ Yes.
+SPEAKER_03
+435.95--467.3
+ This is for United Airlines from ICO to LEX. So this is one way. Living on Saturday, January 14, that would be Sunday, and arriving on January 15, the next day arrival in LAX.
+SPEAKER_03
+468.15--491.9
+ Flight 1706, operated by United Airlines. And this is a basic economy. And it says here that carry on fees may apply. First check bag, $35. Second check bag, $45 per passenger. Paid upon check in. Is that the correct one?
+SPEAKER_02
+491.9--492.5
+ I just said it.
+SPEAKER_01
+495.85--504.0
+ Okay.
+SPEAKER_03
+507.15--511.4
+ Give me one moment here while I'm checking on this, okay?
+SPEAKER_04
+515.65--517.4
+ So are we 14?
+SPEAKER_03
+517.4--532.8
+ Here are slide changes on the slide.
+SPEAKER_03
+535.85--546.7
+ For on January 14th, it was changed to the original flight was 11.05 pm.
+SPEAKER_02
+547.55--548.1
+ Thank you.
+SPEAKER_03
+548.25--553.0
+ but it was changed to 11.52 PM. Would that be OK with you?
+SPEAKER_02
+554.25--563.8
+ Well, that has been changed, but my issue is based on United. They said they cannot locate the reservation because the entire flight has been cancelled.
+SPEAKER_03
+566.35--574.1
+ Yeah, because you need to accept this one.
+SPEAKER_01
+574.1--574.5
+ Thank you.
+SPEAKER_03
+576.05--577.5
+ the 1152.
+SPEAKER_02
+578.85--582.3
+ No, there's no flight for 1162 at all, so I'm trying to tell you.
+SPEAKER_03
+588.85--599.1
+ It shows here that the reprotection that the airline had given is scheduled at 11.52.
+SPEAKER_02
+599.95--604.1
+ Yeah, that's under the airline. I just spoke to the Nautilus and they cancelled that.
+SPEAKER_03
+604.85--606.2
+ the 1152.
+SPEAKER_02
+607.05--609.3
+ Yeah, there's no price for $11.52.
+SPEAKER_02
+609.95--613.5
+ I don't know because I've never got another vacation. That's why I'm calling you guys.
+SPEAKER_03
+613.95--618.6
+ Yeah, I don't understand. Just give me one moment. I'm still checking here.
+SPEAKER_01
+618.85--619.0
+ you
+SPEAKER_03
+631.75--636.4
+ Mr. Visita, can I have your best contact number, please?
+SPEAKER_02
+637.35--637.7
+ Yeah.
+SPEAKER_03
+642.25--647.8
+ Okay, it's gonna be... Is that right?
+SPEAKER_02
+647.85--648.2
+ Yeah.
+SPEAKER_03
+648.65--653.9
+ Okay, and do you authorize me to call you back in case that this call will be disconnected?
+SPEAKER_02
+654.75--655.1
+ Yes.
+SPEAKER_03
+655.45--677.8
+ Okay, and um so visit Asian can I say some hope for? let's say three to five minutes, I'll just check on the Reservation okay, okay. Thank you. Please stand the line
+SPEAKER_00
+681.85--926.7
+ You are on hold. You are on hold. You are on hold. You are on hold. You are on hold. You are on hold. You are on hold. You are on hold. You are on hold.
+SPEAKER_03
+946.65--948.9
+ Hello, Mr. Piscataccio.
+SPEAKER_02
+949.65--950.4
+ Yeah, sure, yeah.
+SPEAKER_03
+950.85--966.2
+ Hi, thank you for patiently waiting and I already checked the reservation on my end and I need to call the airlines directly. So can I plate you on hold again for 10 to 15 minutes?
+SPEAKER_02
+967.25--967.6
+...
+SPEAKER_03
+968.85--969.8
+ Would that be okay?
+SPEAKER_02
+970.85--973.8
+ Yeah, do you mind pulling me back and forth? and the way that works on it?
+SPEAKER_03
+974.45--980.2
+ So can I reach you with the number that you have provided to me?
+SPEAKER_02
+981.05--982.3
+ Yeah, I don't remember.
+SPEAKER_03
+982.85--990.2
+ And please open your lines, okay? Mr. Velasquez. Thank you. Thank you.
+SPEAKER_03
+990.85--1002.5
+ And if in case that I already have talked to the airlines, do you accept the 1152 as a new flight?
+SPEAKER_02
+1003.35--1007.1
+ Yes, that's what my name is when it's over and they say that's right or valid.
+SPEAKER_03
+1008.05--1018.2
+ Because we just need to accept this for it to appear on your reservation okay
+SPEAKER_02
+1019.25--1020.0
+ Okay, thank you.
+SPEAKER_03
+1020.0--1026.7
+ Okay, you're welcome. And is there anything else?
