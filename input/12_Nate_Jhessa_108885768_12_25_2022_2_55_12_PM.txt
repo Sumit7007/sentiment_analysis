@@ -1,0 +1,114 @@
+SPEAKER_05
+0.5--10.5
+ Hello, welcome, thanks for calling the trees ultimate rewards travel center. My name is Sammy and I'll be your travel advisor today. May I have your name please?
+SPEAKER_01
+11.05--35.4
+ Hi, Sammy. This is Shanti. I was on a call for almost 14 minutes then I was supposed to have been transferred to a different department because there was an error while booking my tickets. And I missed the call back. Looks like I missed that slot. Can you please check? Like I spoke with somebody, they almost did the booking but...
+SPEAKER_01
+36.15--38.9
+ Happy lord Career Thanks again Mm-hmm.
+SPEAKER_05
+39.35--49.7
+ Alright, sure I can check that information in regards to your existing reservation. May I please have your chirp ID or ID number so I can check and pull up?
+SPEAKER_04
+50.05--51.0
+ Thank you.
+SPEAKER_05
+51.0--51.4
+ Okay.
+SPEAKER_01
+51.4--69.9
+ Okay, so this tip is not gonna be valid, but I'm gonna give you the trip ID, which is M as in mango, C as in Charlie, B as in Bravo, Q as in Q, G as in Goat, H as in Harry, J as in Jackal, N as in Nancy, nine. then the...
+SPEAKER_05
+70.35--78.9
+ Thank you so much for this information. And is this your, all right, so is this the only reservation you need assistance with?
+SPEAKER_01
+78.9--135.8
+ So this reservation is not valid because the flight which was supposed to have left VWI is indefinitely delayed and our connecting flight from Columbus has departed already so I think Southwest cancels that itinerary the booking because we don't have any more available airlines or flights from VWI. That being said, I was working with one of your agents to get a reservation for the 27th from VWI to Houston with a layover in Atlanta. It almost went through, she got an error and after that she transferred to some department which is more than somebody else. That call did not go through and I'm left with no reservation and no solution for my travel.
+SPEAKER_05
+137.15--150.7
+ All right, sure I can check. Now may I please have your best call back number you can send to our May Call Yee in case our call that is connected please.
+SPEAKER_01
+150.7--150.8
+ Thanks for watching!
+SPEAKER_05
+156.55--161.1
+ All right, perfect. Just to confirm that will be...
+SPEAKER_01
+161.1--161.3
+
+SPEAKER_04
+163.25--163.6
+ Mm-hmm.
+SPEAKER_05
+163.85--175.6
+ Perfect. And may I please have your zip code to access your account here?
+SPEAKER_01
+178.75--180.1
+
+SPEAKER_05
+183.05--207.4
+ All right, so, all right, amazing. And let me pull up your account here. So, all right, sorry to hear that there's no available on-flight, and sorry to hear that the flight already lived. And just to confirm, you missed the flight, right? In your memory.
+SPEAKER_01
+207.4--224.0
+ flight. No, no, no, no, no, we did not miss the flight. The flight has not left yet from the airport. It is indefinitely delayed. And the Columbus Air flight, which is the connecting flight left. So in a way we missed it, but it was not because of us.
+SPEAKER_05
+224.0--232.6
+ Oh, I see. All right, got it. So here you want to cancel this reservation, am I correct? Yes.
+SPEAKER_01
+232.6--251.0
+ cancel this reservation or get a refund. At the same time, if possible, get me another booking by Tuesday, any airline, anytime from Baltimore to Houston.
+SPEAKER_05
+251.0--274.3
+ Alright sure I can check this information but let me verify if this is the reservation that you are looking for or you are referring to okay so this reservation will be one two three under four passengers under Southwest Airlines and
+SPEAKER_05
+274.85--305.0
+ Alright, so the departure city airport will be in BWI or that will be in Baltimore, Minnesota. Yes, that's right. And also your arrival city airport will be in Houston, Texas. Yes. And if I pull up here, the departure date will be December 21st, so that will be today. Alright, so should have been today.
+SPEAKER_02
+305.001--306.0
+ Yeah.
+SPEAKER_05
+306.0--328.2
+ All right, so in your concern, let me check the fare over here first. So would that be okay if I put in hope first for about three minutes only to check the fare rules in this reservation? The what? The fare rules. Okay. All right, here let me go ahead and check this one. So let me go ahead and put in hope first. Stay in the line. Thank you so much.
+SPEAKER_04
+328.75--451.6
+ New are on hold. New are on hold.
+SPEAKER_05
+498.95--531.4
+ So thank you so much for patient waiting. So in your concern in regards with this reservation, I need to translate our senior specialist in order for them to coordinate with the airline for this one. And please note that if the expected wait time exists five minutes, you may be offered a callback. And if you choose to receive a callback versus waiting for the next available agent, please follow the prompt, okay? Okay. All right. So Miss Caffoli, hello.
+SPEAKER_01
+531.4--550.1
+ I'm sorry, I was talking on this. I select an option on my phone where if I don't know the caller, it goes into silent and to voice message. I do not know how to disable it, so I don't want to be in call waiting. I mean, I don't want to be called back. I will wait for the.
+SPEAKER_05
+550.1--555.1
+ All right, for the available agents. All right. Yeah.
+SPEAKER_01
+555.101--557.1
+
+SPEAKER_05
+557.55--566.6
+ All right, just confirm you want me to be in the line and wait for the next available agent or senior specialist. Oh, for that, sure.
+SPEAKER_05
+567.25--577.4
+ Alright, so here, let me go ahead and translate. So by the way, aside from this concern in regards to your delayed flight, are there anything else that I can assist you with today before I go translate you?
+SPEAKER_00
+577.95--578.8
+ Oh.
+SPEAKER_01
+578.8--589.0
+ So I just want to make sure after speak with them, will it be possible for anybody to help me with checking if there are any flights at all?
+SPEAKER_05
+589.0--589.4
+ available.
+SPEAKER_04
+590.15--590.8
+ Mmm.
+SPEAKER_05
+590.8--613.1
+ So for that concern, they will be the one who will assist you with that. Since I'm in this concern, they will check the information also to know if in your, so with your question a while ago, if you get a refund for this one, okay? So let's go ahead and transfer you over to them. So please stay in the line. Okay. Well, I'm transferring you, okay? Thank you so much. Class of 2019, thank you so much.
+SPEAKER_03
+616.55--662.7
+ and carefully to each menu as options have changed for many of the clients. For voids or car or hotel changes, press 1. For help desk, press 2. For exchanges, press 3. For cruise and tour, press 4. For schedule change, press 5. For membership, press 4. For chase, press 1. For Capital One, for chase travel call, press 1. For chase experiences calls, press 2. Your expected wait time is approximately 17 minutes. If you'd like, I can have an agent call you back. Press 1 to leave a call back request or press 2 to continue holding.
+SPEAKER_02
+666.55--675.7
+ Thank you for holding. All of our advisors are currently assisting other customers. Your expected wait time is approximately 20 minutes or less.

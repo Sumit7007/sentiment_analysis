@@ -1,0 +1,447 @@
+SPEAKER_01
+0.0--6.2
+ Thank you for calling Chase Ultimate Rewards Travel Center. My name is Effie. I will be your travel advisor. May I have your name, please? My name is Jeff.
+SPEAKER_03
+7.25--10.4
+ Hi, this is Yahya Ahmed, Abdul-Wahhab Ahmed.
+SPEAKER_01
+11.35--16.2
+ Thank you Mr. Almond and may I have your 16 digit credit card number and your billing zip code please.
+SPEAKER_03
+17.35--21.3
+ That's 41472025.
+SPEAKER_03
+21.95--26.0
+ 4750 3 6 8 8
+SPEAKER_01
+28.35--30.2
+ Thank you and your billing zip code please.
+SPEAKER_03
+31.05--32.5
+ 3-4-2-3-6
+SPEAKER_01
+35.35--39.6
+ Thank you. And how are you doing today?
+SPEAKER_03
+39.6--42.2
+ Very well, thank you.
+SPEAKER_01
+42.65--48.0
+ I'm doing good. Just pulling up the count right now.
+SPEAKER_02
+48.0--49.7
+ Thank you.
+SPEAKER_01
+54.35--59.7
+ Um, Mr. Ahmed, can you repeat the last four digits of your card number one more time?
+SPEAKER_03
+60.85--62.6
+ Three, six, eight.
+SPEAKER_01
+63.05--67.2
+ Okay, I have it correct. And the zip code is 34326.
+SPEAKER_03
+68.55--71.1
+ 3 4 2 3 6
+SPEAKER_01
+71.95--73.5
+ 2, 3, 6, okay.
+SPEAKER_02
+84.15--84.5
+ Thank you.
+SPEAKER_01
+84.85--102.0
+ Okay, I got it. And just want to let you know the call is being recorded and monitored. And may I have a good call back number just in case if the call gets dropped?
+SPEAKER_03
+102.95--110.0
+ Yeah, of course. That would be 941-524-4833.
+SPEAKER_01
+110.0--112.7
+ Thank you, and how can I help you today?
+SPEAKER_03
+113.85--119.3
+ I'm trying to book a hotel room in Atlanta, Georgia.
+SPEAKER_02
+119.3--119.9
+ Mm-hmm.
+SPEAKER_03
+121.85--126.1
+ for tonight so check in 18 and check out 19.
+SPEAKER_01
+131.85--137.5
+ Okay, and this is a new reservation, correct?
+SPEAKER_02
+138.25--138.9
+ That's correct.
+SPEAKER_01
+142.75--153.8
+ I can definitely assist you with that. Are you trying to do it by yourself by chance? Just asking.
+SPEAKER_03
+155.25--163.3
+ Yeah, but for some reason I do get an error when I try online. I also want to ask you about that.
+SPEAKER_01
+163.3--175.2
+ Okay sure no worries I can help you with
+SPEAKER_03
+176.85--179.4
+ Yeah, the city would be Atlanta, Georgia.
+SPEAKER_01
+179.4--180.0
+ Okay.
+SPEAKER_03
+180.05--186.7
+ And the hotel I was looking at is called... Um, just a second here...
+SPEAKER_03
+194.55--196.7
+ Musters and Tucker.
+SPEAKER_01
+196.7--200.9
+ Can you spell that for me so I have it correct?
+SPEAKER_03
+201.75--210.0
+ So, masters M-A-S-T-E-R-S-N-I-N-N.
+SPEAKER_03
+210.75--214.7
+ Tucker, D-U-C-K-E-R.
+SPEAKER_01
+214.75--217.3
+ Okay, got it. Masters, Mintucker.
+SPEAKER_03
+218.15--218.5
+ Yeah.
+SPEAKER_01
+218.85--232.1
+ Okay. How many guests in the room?
+SPEAKER_03
+232.95--233.0
+ you
+SPEAKER_01
+233.0--251.6
+ one person. Okay, got it. I know you said the 18th is it for today.
+SPEAKER_03
+252.35--254.9
+ Yeah, today and check out tomorrow.
+SPEAKER_01
+254.9--256.1
+ got it.
+SPEAKER_03
+256.1--256.2
+ you
+SPEAKER_01
+266.15--269.6
+ I'm just searching it right now
+SPEAKER_03
+270.35--271.6
+ Okay.
+SPEAKER_01
+271.6--275.8
+ I just want to let you know fares and availability are not guaranteed until ticketed.
+SPEAKER_02
+276.85--277.0
+ So I'm going to take it back and show you guys what has happened.
+SPEAKER_03
+277.0--277.3
+ Okay.
+SPEAKER_01
+277.65--284.9
+ Is this for a business trip or just for leisure?
+SPEAKER_03
+285.75--286.9
+ Health Centre.
+SPEAKER_01
+286.9--288.2
+ Oh, okay. Nice.
+SPEAKER_03
+288.95--290.0
+ Thank you.
+SPEAKER_02
+290.0--291.0
+ hahah.
+SPEAKER_03
+291.001--294.1
+ I'm seeing posts from my lawn tonight.
+SPEAKER_01
+294.35--320.3
+ Uh huh. Where are you originally from, Mr. Ahmed?
+SPEAKER_03
+321.55--326.0
+ I'm originally from Egypt, but I live in Sarasota, Florida.
+SPEAKER_01
+326.15--327.1
+ Oh, okay.
+SPEAKER_02
+327.95--328.0
+ you
+SPEAKER_01
+328.0--332.8
+ I always wanted to go see the pyramids in Egypt, but I have not gotten a chance.
+SPEAKER_02
+333.45--333.6
+ you
+SPEAKER_01
+333.6--335.3
+
+SPEAKER_03
+335.3--337.9
+ Thank you absolutely sure, these are the tests so much.
+SPEAKER_01
+337.9--346.0
+ I know I hurt so much. I have a friend from Egypt a couple of friends. I hear a lot so one day
+SPEAKER_03
+346.0--350.6
+ I want to tell you how we have some really nice beaches as well in Beechtown.
+SPEAKER_01
+351.45--359.1
+ I heard that she doesn't go back as often, but I heard it's a really nice place.
+SPEAKER_03
+360.35--362.5
+ I really hope you get to visit one day.
+SPEAKER_01
+362.65--372.9
+ Yeah, I'm originally from Bangladesh, so I mean, I know a little bit more, but I would love to see the place beyond. There's a lot of history there.
+SPEAKER_03
+372.9--385.5
+ And I'm actually, I lived in Southeast Asia for a while, and I really want to let my notice so I didn't get the chance to go there yet. Oh. Who else, or…
+SPEAKER_01
+385.95--394.5
+ Oh okay that's wonderful you will enjoy it it's very small but very green and um it's really good too.
+SPEAKER_02
+394.5--396.2
+ Thanks for watching!
+SPEAKER_01
+401.05--406.2
+ For some reason that hotel is not coming up but I'm looking still.
+SPEAKER_03
+411.35--416.5
+ because what this might have is showing availability for today.
+SPEAKER_03
+417.15--428.6
+ It might be easier if you study by the city and it would be one of the top in the list maybe.
+SPEAKER_01
+429.35--438.5
+ I'm looking actually that way. I didn't put the name in because it wasn't coming up. So I'm just listening individually with the name Atlanta, Georgia.
+SPEAKER_02
+449.25--450.0
+ Thank you.
+SPEAKER_03
+450.0--450.5
+
+SPEAKER_01
+450.65--452.3
+ Uh-huh. Go ahead.
+SPEAKER_03
+452.3--462.5
+ The way I found it, I searched my Santa and then it filtered by a triple Pfizer rating of 4 stars and higher.
+SPEAKER_02
+462.65--462.8
+ you
+SPEAKER_01
+462.8--463.6
+ Okay.
+SPEAKER_03
+463.6--467.8
+ and I sorted by price from low to high.
+SPEAKER_01
+468.55--478.7
+ Okay, got it. Let me see what comes up when I do that. And the price was how much was it showing you?
+SPEAKER_03
+480.55--483.9
+ That was 83, I think 83 dollars.
+SPEAKER_01
+483.9--485.9
+ Oh, maybe three.
+SPEAKER_01
+487.15--528.0
+ Thank you for telling me that it helps me with my search. The only problem is that it's for today so sometimes it might show but then it might not be available. But I'm still looking on here.
+SPEAKER_03
+528.95--543.8
+ Yeah, I mean, if you thought by the rank and four stars and higher and the price, you can tell me what do you see and I can show the difference, lots of different worlds.
+SPEAKER_01
+543.85--546.2
+ Oh, okay, sure.
+SPEAKER_02
+566.45--567.0
+ Thank you.
+SPEAKER_01
+570.15--586.1
+ So for today, if I do a four star rating plus say within $100 for the hotel, on my search there is nothing, everything is sold out. That's four star within $100.
+SPEAKER_03
+586.75--594.3
+ I think you may be choosing 4-star as a 4-star bottle, but what I meant...
+SPEAKER_03
+594.95--603.4
+ uh first star on trip advisor it should be it should be when you when you look up the filters it should be the one lower than that
+SPEAKER_01
+603.55--606.2
+ Okay, got it. I'm looking.
+SPEAKER_03
+606.65--609.9
+ Yes, that would use more ability for star not
+SPEAKER_01
+609.9--630.8
+ I will find it. Oh, okay. Got it. Got it. Now I probably will find it. Yep, I found it. No, I can't read. So Masters and Tucker, this one is showing $66 per night. For one night.
+SPEAKER_01
+632.55--636.6
+ Let me click on this and see what kind of room would you like?
+SPEAKER_03
+638.55--648.9
+ Is this the same fossil we discussed in the beginning? Yeah. The musters? Yeah. So I'm looking for a gang bedroom, not smoking.
+SPEAKER_01
+648.901--673.1
+ Okay, king bedroom, non-smoke. Okay, so I have standard room, one king bed, non-smoke.
+SPEAKER_03
+674.45--675.3
+ That's great.
+SPEAKER_01
+675.45--685.5
+ So this one is showing $83 for one knife or 6,592 points.
+SPEAKER_03
+685.5--687.6
+ Yeah, I'm actually gonna use the points.
+SPEAKER_01
+687.6--702.3
+ Okay. Let me just go over the itinerary to make sure everything is correct and then we'll proceed, okay?
+SPEAKER_03
+702.85--703.5
+ Okay.
+SPEAKER_01
+703.85--733.0
+ So, Masters Inn Tucker, your check-in will be Tuesday, October 18. Check-out Wednesday, October 19. One guest in the room, one adult. Address is 1435 Montreal Road, Tucker, Georgia, US 30084. It is a non-refundable hotel. Free Wi-Fi. Room type is standard room, one king bed, non-smoking.
+SPEAKER_01
+733.85--749.0
+ the total comes out to be $82.41 or 6,592 points. So if you hear points, there is no balance due. Does that sound good?
+SPEAKER_03
+749.0--749.5
+
+SPEAKER_01
+749.55--765.9
+ Okay. And I would need the name for on the reservation whose name will it be?
+SPEAKER_03
+766.95--769.9
+ That would be Yevia Ahman, and Zohar Bahman.
+SPEAKER_01
+770.15--776.8
+ Okay, and may I have a good telephone number just in case that the hotel needs to reach out to you?
+SPEAKER_03
+777.55--782.4
+ 9 4 1 5 2 4 4 D 3
+SPEAKER_01
+782.95--786.3
+ thank you and a good email address if they need it.
+SPEAKER_03
+787.45--789.9
+ That would be Yahya White Day.
+SPEAKER_03
+791.05--793.9
+ It's A-Y-A-X-Y-A.
+SPEAKER_01
+794.25--794.9
+ uh-huh
+SPEAKER_03
+795.05--802.2
+ dot maraca b a r a k a h okay
+SPEAKER_01
+802.45--858.5
+ Got it. Thank you so much. I appreciate it. And so now I'm just going to spell out your name just to make sure everything is correct. Okay. First name. Yahia. Y as in Yankee. E as in Echo. H as in Hotel. I as in India. A as in Alpha. Ahmed. A as in Alpha. H as in Hotel. M as in Mary. E as in Echo. D as in Delta. And your last name is A as in Alpha. B as in Bravo. D as in Delta. E as in Echo. L as in Lima. W as in Whiskey. A as in Alpha. H as in Hotel. A as in Alpha. B as in Bravo. And I already spelled out Ahmed. And your phone number 941-524-833. Email address is yahia.baraka at Gmail.com.
+SPEAKER_03
+859.35--860.3
+ That's correct.
+SPEAKER_01
+860.35--869.9
+ Upon check-in, you will be asked to provide an identification and a credit card for any incidentals not included in the ring.
+SPEAKER_02
+871.05--872.4
+ Perfect.
+SPEAKER_01
+875.75--881.1
+ So one other thing I would need is your date of birth. May I have that please?
+SPEAKER_03
+882.25--885.2
+ August 10 1989
+SPEAKER_01
+885.95--895.2
+ August 10 1989. Got it. I'm going to place you on a brief hold and be right back. Okay. Thank you
+SPEAKER_00
+898.05--1020.9
+ You are on hold. You are on hold. You are on hold. You are on hold. You are on hold.
+SPEAKER_01
+1027.45--1035.9
+ Mr. Amman, hello. Thank you for your patience. I appreciate it. I'm going to go ahead and process your request now, okay?
+SPEAKER_03
+1036.75--1037.4
+ Okay.
+SPEAKER_01
+1051.85--1063.7
+ And then I just want to let you know one other thing because you're booking less than 24 hours in advance Most same-day booking cannot be cancelled without a penalty you
+SPEAKER_03
+1063.7--1064.4
+ Yo.
+SPEAKER_02
+1067.15--1067.5
+ Thank you.
+SPEAKER_01
+1095.55--1096.4
+ It's floating.
+SPEAKER_02
+1098.35--1100.0
+ Thank you.
+SPEAKER_01
+1114.75--1121.8
+ Okay, so it is done now. It's confirmed. Would you like to have the trip ID?
+SPEAKER_03
+1123.55--1128.8
+ Let me check, it may already show for me in the chase tab.
+SPEAKER_01
+1128.8--1133.0
+ Yes, it should be there because we did send you an email as well.
+SPEAKER_03
+1144.55--1146.0
+ Yeah, I do see it.
+SPEAKER_02
+1146.0--1146.4
+ Okay.
+SPEAKER_03
+1148.45--1149.2
+ Amen.
+SPEAKER_01
+1149.2--1150.2
+ Uh-huh, go ahead.
+SPEAKER_03
+1151.05--1159.1
+ Well, thank you so much for helping with that. My remaining question is, do you happen to know why I can't do it in the house?
+SPEAKER_01
+1159.55--1211.8
+ So basically there is a reason. So there is a screening based on name and what the database, our database goes through. There's extra screening that you have to go through. You're on that list. And so if you want to take off your name, it's all done through the US Department of Treasury. And you would have to go through screening. You have to go through the screening until you remove your name from that list, basically, which is a form filled with the US Treasury. And you can Google that. And then you have to file a petition for removal from the list through the Treasury, basically.
+SPEAKER_03
+1213.15--1217.9
+ Doesn't have to do anything to do with someone having a similar name to me.
+SPEAKER_01
+1217.9--1242.6
+ Correct, it could be possibly, you know, a lot of people do in the world, we have similar names. And it's through the government website, US Department of Treasury. So I know that's a pain, every time you try to book you can't, so you would have to remove your name and you would have to fill out the form through the US Treasury basically.
+SPEAKER_03
+1243.25--1250.0
+ Okay, I see. And it doesn't show you what name is similar to me by any chance, does it?
+SPEAKER_01
+1250.15--1256.4
+ No, it's just your name. However it is, we put your name and that's what comes up. So that's why.
+SPEAKER_03
+1256.4--1261.3
+ Okay, yeah, I will reach out to them and see what I can do about that.
+SPEAKER_01
+1261.3--1269.5
+ Yeah, if you just Google it, then it'll take you and tell you what form to fill out, and then you can file a petition to remove that. And then you should be good.
+SPEAKER_03
+1270.35--1272.3
+ Okay, thank you so much.
+SPEAKER_01
+1272.3--1274.8
+ I pleasure. Anything else I can assist you with today?
+SPEAKER_03
+1275.55--1277.0
+ No, that's everything.
+SPEAKER_01
+1277.0--1293.4
+ Well thank you for calling and it was a pleasure speaking with you. If you need anything, please feel free to call us anytime, we're open 24-7. Or visit our website ultimaterewards.com for your future travel needs and thank you for calling Chase Ultimate Rewards Travel Center. And have a great day.
+SPEAKER_03
+1294.35--1296.2
+ Thank you, you too. Goodbye.

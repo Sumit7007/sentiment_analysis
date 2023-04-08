@@ -1,0 +1,258 @@
+SPEAKER_02
+0.6--9.1
+ Hello, we are calling to chase looking mid-warrior trouble center. This is Jane and I will be your travel advisors. Can you have your phone in case?
+SPEAKER_03
+10.15--11.6
+ Yes, hi. What was your name again?
+SPEAKER_02
+12.05--15.7
+ This is Tadeen from CHEES, looking with your Edge Travel Sensor.
+SPEAKER_03
+15.7--21.6
+ Oh yes, hi, my name is Sam from Chase Guard Services. I do have a mutual customer who would like to cancel the reservation.
+SPEAKER_02
+22.15--27.9
+ Okay, and I will be more than happy to assist the customer regarding resides and I can have the name of the customer
+SPEAKER_03
+28.85--30.3
+ That would be Edward Holler.
+SPEAKER_02
+30.85--37.2
+ Edward Holler. Okay, you can go ahead and transfer the customer over.
+SPEAKER_03
+38.05--55.9
+ Sure. Hello, Mr. Heller. Thank you so much for patiently waiting the line. So as I promised, I was able to get one of our travel advisors who would help you out in canceling your reservation that was booked through Chase Ultimate Rewards. She might be asking for your card information, so let me just excuse myself from the scope of privacy. Thank you so much for choosing Chase. Both of you have a great day.
+SPEAKER_01
+55.9--58.4
+ Okay, somebody's there on the phone. Yeah, go ahead.
+SPEAKER_02
+58.45--68.3
+ Yes, I am here. Thank you so much by the way, miss Edward just want to ask For your 16-digit credit card number for me to access your account.
+SPEAKER_01
+69.75--70.3
+ What's that?
+SPEAKER_02
+71.05--73.1
+ First, can you give me your credit card number?
+SPEAKER_01
+74.55--86.0
+ I don't have my car. I don't have my glasses with me. And I got to get somebody to ask me other information. The last four numbers are 3843. Ask me anything else.
+SPEAKER_02
+86.85--95.9
+ Because actually regarding with this one Mr. Edward, the only thing for us to cancel the SRV fund is your 16-billion credit card number. Edward, so- I still had only the 18th on here.
+SPEAKER_01
+95.9--102.1
+ Excuse me. Hello? Hold on. Hello? Okay. Yep, I'm still here. Hold on.
+SPEAKER_01
+102.55--106.2
+ I'll have to get, just hold on so I can have somebody read it to me.
+SPEAKER_02
+106.65--107.6
+ All right.
+SPEAKER_01
+107.6--118.3
+ Hello? Yes, I'm still here. I'm still here. Okay, okay. Excuse me. Can you give me a super phrase?
+SPEAKER_02
+118.3--119.9
+ Oh yeah.
+SPEAKER_01
+120.45--125.2
+ I'm sorry, I just did on this. Did you just say Sapphire preferred on him?
+SPEAKER_01
+126.05--132.3
+ Yeah, you gotta put the light on. No, that's the wrong one. This one here.
+SPEAKER_01
+134.95--161.0
+ Okay. Okay, can you read the numbers in the back, please? Yeah, go ahead. You're wonderful. Do you need me to read anything else here, Miss? Hello?
+SPEAKER_02
+161.0--162.4
+ Yes, yes, uh-huh.
+SPEAKER_01
+163.75--165.0
+ Yeah, what else do you want?
+SPEAKER_02
+165.75--168.7
+ at the billing zip code.
+SPEAKER_01
+168.7--174.9
+ Thanks.
+SPEAKER_01
+175.65--183.0
+ Unbelievable. Huh? I don't know yet. Can you just what? Do you need anything else on the credit card?
+SPEAKER_02
+183.65--194.7
+ Okay, I'll just give you a second. Let me pull up the account first, okay? Can you please read the 15-digit credit card number because I'm receiving error message on my end.
+SPEAKER_02
+195.55--195.8
+ Thanks for watching!
+SPEAKER_01
+196.05--197.9
+ I'll move the reading number again.
+SPEAKER_00
+197.9--201.0
+
+SPEAKER_02
+214.75--222.8
+ Okay, thank you. And your zip code is...
+SPEAKER_01
+224.05--224.5
+ Yes.
+SPEAKER_02
+224.95--228.5
+ Okay, thank you. Hold on a second.
+SPEAKER_01
+230.05--232.2
+ Bye, everyone.
+SPEAKER_02
+232.2--247.5
+ Hello, I'm Mr. Holler. This is Trine from the Chase Ultimately World Trouble Center. And looks like that you're calling in recording with your existing reservation that you wanted to cancel, right?
+SPEAKER_01
+248.75--270.4
+ Yeah, I want to cancel the Southwest flight. I can't make the flight today. Just put it back on my rewards, please. I don't have the confirmation because something came up. I'm not around there now and I can't get back to my hotel in time. I'll pay for it. I'll move my credit card. I'll just cancel it and put back the things on my...
+SPEAKER_02
+270.4--270.9
+ I don't know.
+SPEAKER_01
+271.05--277.1
+ Can you do that? Because they won't do it. I called up Southwestern. They won't do it. Can you take care of that?
+SPEAKER_01
+278.65--280.5
+ I don't have the confirmation number.
+SPEAKER_02
+280.5--283.0
+ What about the trip ID number?
+SPEAKER_01
+284.95--285.3
+ What?
+SPEAKER_02
+286.15--290.1
+ The true ID number for your reservation do you have?
+SPEAKER_01
+291.35--302.5
+ I don't have anything. You made the reservation. The reservation was made. I have it for this afternoon at 4 o'clock, going back to Fort Lauderdale from Austin, Austin, Texas.
+SPEAKER_02
+303.25--303.7
+ Okay.
+SPEAKER_01
+305.85--306.1
+
+SPEAKER_02
+306.1--311.7
+ Alright, let me verify something here on my end, okay, to make sure that we are on the same page.
+SPEAKER_01
+314.25--320.5
+ Right? I don't think this is... You've mentioned to me, Mr. Edwards...
+SPEAKER_02
+320.5--334.9
+ about this flight. This one's to verify this flight that you wanted to cancel, okay? The information to me is that this is for the Southwest Airlines.
+SPEAKER_02
+335.65--339.7
+ And can you please confirm to me the passenger name on this flight?
+SPEAKER_01
+341.35--342.4
+ Edward Howard.
+SPEAKER_02
+342.75--346.1
+ Perfect. And the departure city.
+SPEAKER_01
+347.35--353.5
+ Austin Bergstrom Airport, Austin, Texas, Southwest Airlines.
+SPEAKER_01
+356.25--358.7
+ to Fort Lauderdale that's in Florida.
+SPEAKER_02
+359.15--383.7
+ All right, so yep, so as for checking here, their reservation here is for the passenger named Edward Holler and Southwest Airlines. The skinner for Austin Bergstrom International airport up to Austin Taxis November 1, 20-22. And you're gonna be returned to Hallor Vale international airport to
+SPEAKER_01
+383.7--392.9
+ Wait a second, wait a second. I'm you got it wrong. I'm supposed to, I want you to cancel the, I have a flight this afternoon.
+SPEAKER_02
+395.25--396.2
+ develop.
+SPEAKER_01
+396.2--397.7
+ So the flight...
+SPEAKER_02
+398.55--404.0
+ Okay, let me double check everything here, okay? Kids actually, hold on.
+SPEAKER_01
+404.0--412.0
+ Yeah, they should just send me an email and give me the confirmation. Yeah, you can do it.
+SPEAKER_02
+412.85--415.0
+ Okay, let me double check that.
+SPEAKER_02
+417.25--428.6
+ By the way, Mr. Medward, just want to ask your permission for your best callback number for me to call you back in case the call gets disconnected.
+SPEAKER_01
+428.6--430.6
+ Thank you.
+SPEAKER_02
+436.85--444.3
+ Okay. So you'd much like to meet up. You should have a slide. Just for a second.
+SPEAKER_01
+448.25--455.4
+ I use my rewards card to fly out of Austin, Texas, to what it's worth.
+SPEAKER_02
+461.05--492.2
+ I have here the 3P Dales that's going to be depart to Austin and you're going to be arrive to Fort Lauderdale but that's going to be November 1 22nd. It's the only reservation under Southwest Airlines.
+SPEAKER_01
+494.35--501.7
+ No, it's for this afternoon. It's like 1547 or 1847.
+SPEAKER_02
+504.75--514.0
+ Let me double check all the information here, okay? APN 47 for the flight.
+SPEAKER_01
+516.45--538.7
+ We made the flight a couple weeks ago from the private client, from David at the private client. The first flight was from, on what do you call it, maybe it's coming up if you look under.
+SPEAKER_02
+538.95--546.5
+ Where did you book that slide? Is this to taste ultimately words?
+SPEAKER_01
+546.5--551.7
+ from my Chase Sapphire.
+SPEAKER_02
+553.65--554.4
+ Okay.
+SPEAKER_01
+557.65--561.5
+ Sapphire preferred. I had a flight from.
+SPEAKER_02
+561.5--563.3
+ All right.
+SPEAKER_01
+563.3--574.8
+ Spirit Airlines to Austin, Texas and a return flight from Austin, Texas to Florida.
+SPEAKER_02
+575.65--595.2
+ I see okay hold on let me double check this for you because there was a mix and match fair and this is going to be December 19 22nd is this the reservation that you're looking for
+SPEAKER_01
+597.55--598.8
+ What is this? I'm sorry?
+SPEAKER_02
+599.55--639.8
+ Because the only thing that I'm seeing here, Mr. Edward, is the flight under, you have here, actually, you have here flight created last November 16, 22nd, and as per checking here, this was a mismatched flight for the outbound flight, that's gonna be from Fort Lauderdale, Florida, to Austin, Florida, to Austin, Florida, to Austin,
+SPEAKER_01
+641.85--648.8
+ Wait a second. Tell me something. Do I have something on my credit card from Fort Waterdale?
+SPEAKER_02
+649.35--650.3
+ Actually...
+SPEAKER_01
+650.3--654.4
+ in Texas to watch them perform on the...
+SPEAKER_02
+655.15--666.6
+ Actually, the only flight that I'm seeing here is for the return. Are you looking for the return flight that you wanted to cancel for the points of 13,838 ultimately towards points?
+SPEAKER_01
+669.35--679.6
+ This is the only one. What about on my credit card? Did I use it on my credit card today? The flight.
+SPEAKER_02
+680.95--689.8
+ Hold on a second. Let me double check that for you, okay? Give me one second. I'll be just teasing you for two to three minutes, okay? All right.
+SPEAKER_01
+689.8--690.3
+ What is this?
+SPEAKER_02
+691.95--712.3
+ I'll just need to check that information here in my end, Mr. Edward, because I wasn't able to see that, okay? For me to be able to double check that, I need to put you on a default for two to three minutes, okay? Just give me a second.

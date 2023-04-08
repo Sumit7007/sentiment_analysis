@@ -1,0 +1,114 @@
+SPEAKER_03
+1.7--11.1
+ Welcome and thank you for calling Space Travel. My name is Shante and I'll be your travel supervisor assisting you today. This call is monitored and recorded. May I have your first and last name please?
+SPEAKER_02
+12.25--13.9
+ Hello, this is Jessica Steiner.
+SPEAKER_03
+14.85--32.2
+ How are you doing today, Ms. Steiner? I'm doing well. How are you? I'm quite well. Thank you so much for asking. What is your best callback number just in case we get disconnected? Thank you so much. Are you calling regarding existing reservation like the book a new one today?
+SPEAKER_02
+33.55--35.1
+ an existing reservation.
+SPEAKER_03
+35.35--41.3
+ Absolutely. I'd be more than happy to help you with our reservation, but for me to access the account, I need your 16-digit credit card number and the zip code, please.
+SPEAKER_02
+42.45--51.5
+ Sure. The account number is... There's a totally different video�
+SPEAKER_03
+51.5--59.8
+ Thank you so much. If you could give me just one moment here, I would be able to access your account and would be able to further assist you. Did you enjoy the holidays yesterday?
+SPEAKER_02
+61.65--64.9
+ Yes, it's been a great time with family.
+SPEAKER_03
+65.15--72.4
+ That's always exciting. All right, so I do have the reservation here. For verification, could you verify the name of the account one more time, please?
+SPEAKER_02
+72.4--75.4
+ Jessica Steiner.
+SPEAKER_03
+75.55--86.2
+ Thank you so much Ms. Steiner. Again, this call is monitoring and recorded. So do you have the trip ID or the itinerary number for the reservation need assistance with? I have the trip ID. All right, I can pick that whenever you're ready.
+SPEAKER_02
+87.35--95.4
+ Okay, it's 6, 9, P, J, D, K, 5, M,
+SPEAKER_03
+95.4--95.7
+ 3.
+SPEAKER_02
+96.35--96.4
+ you
+SPEAKER_03
+96.4--138.7
+ Thank you so much. If you give me just one moment here, I'm going to recap it to make sure I'm looking at the correct one, then I would be able to further assist you with this reservation. All righty. So far I do see this is for Delta Airlines, I'm sorry, Southwest Airlines departing on Monday, December 19th from, let's see here, I'm trying to get everything loaded up here correctly. My apologies. Perfect. So it shows leaving Chicago exactly at 6.55 p.m., landing at Cleveland exactly at 9.05 p.m., leaving Cleveland on the 27th of December at 6 a.m. Flight number, sorry, it's not showing the flight number, but I do have it where you're landing back to Chicago at 6.25 a.m. for two passengers, yourself and Joseph. So how may I assist you with this reservation?
+SPEAKER_02
+138.7--163.4
+ Yep, so that's correct. So there's a travel advisory in effect for the flight tomorrow and every single Southwest flight has been canceled out of Cleveland today. And we are looking to cancel our reservation or flight tomorrow and receive a travel credit for Southwest and just wanted to call and see if that was possible.
+SPEAKER_03
+163.4--170.7
+ Oh, absolutely. I'm more than happy to help you with that there. So I'll need to put you on the small group for at least five to seven minutes and check the availability we have here for this policy, okay?
+SPEAKER_02
+171.95--172.8
+ Okay, thank you.
+SPEAKER_03
+172.8--177.1
+ Great, thank you so much Ms. Piner for your patience. I'm gonna put you in a brief hold. Thank you so much for your patience. One moment.
+SPEAKER_00
+178.75--301.7
+ You are on hold. You are on hold. You are on hold. You are on hold. You are on hold.
+SPEAKER_01
+314.55--324.4
+ No charge for no charge or sign for fair of all change fair components
+SPEAKER_00
+422.65--545.6
+ You are on hold. You are on hold. You are on hold. You are on hold. You are on hold.
+SPEAKER_03
+613.15--626.0
+ I do apologize for the long hold. I'm just checking the fare rules to make sure we can still cancel this reservation with an airline credit. This may take probably another three to five more minutes, okay? No problem. Thank you. Thank you. Give thanks for the patient with me one moment, please.
+SPEAKER_00
+627.35--680.3
+ You are on hold.
+SPEAKER_03
+680.65--702.9
+ All right, thank you again for being so patient with me. So after collecting the correct info for this reservation, are you still there? Yep, I'm still here. Sorry for the long hold. So we are able to cancel the rest of this reservation with an airline credit. I'd like to inform you that once I do cancel this reservation, I cannot reinstate it. But if you do choose to rebook it, you may do so under current rates and availability. So I have your full authorization to cancel the rest of this reservation with an airline credit.
+SPEAKER_02
+709.35--715.4
+ Hello? Yes. Sorry if you couldn't hear me, but yes, you have my authorization.
+SPEAKER_03
+715.55--752.3
+ Beautiful, great. Thank you so much. Give me just one moment here. I would be to cancel this and once it shows the correct amount of how much your credit will be, I will give that to you momentarily here. Perfect. And now it has shows that the reservation has been canceled with an airline credit. You have until at least the 24th of October, 2023 to use this airline credit. And as of right now, it does show it will be, let me check information here. It's going to be exactly $217.90 and $97 per person for the airline credit. Can you repeat that?
+SPEAKER_02
+752.3--754.8
+ Sounds to me again. Absolutely.
+SPEAKER_03
+754.8--759.2
+ per person it will be $217.97 per person.
+SPEAKER_02
+760.75--760.9
+ Okay.
+SPEAKER_03
+760.9--761.7
+ Okay, great.
+SPEAKER_02
+761.7--762.3
+ Thank you.
+SPEAKER_03
+762.45--769.6
+ Absolutely, and you may always call us and visit ultimateworth.com for any of your future travel needs. Is there any other reservation that can assist you with today, Miss Jessica?
+SPEAKER_02
+771.15--783.1
+ Just a quick question on the confirmation of this. Will I be receiving an email or is there a credit number or any identifier that you could provide? Not directly
+SPEAKER_03
+783.1--798.8
+ I will put it inside your notes that the reservation was cancelled with your authorization with the amount of the $2.1797. You will just need to contact Chase Travel once again to use this airline credit if you do choose to rebook. Thanks and have a good day.
+SPEAKER_02
+798.8--808.4
+ Okay, so if I call back and I want to book a flight on Southwest in the future, I'll just notify whoever I'm on the phone with of the credit and they should see it on their end. I'll see I won't book a flight, alright?
+SPEAKER_03
+808.4--824.1
+ Yep, all you have to do is give them the same trip ID that started with a 6-9-PS and Peter and we will be able to look that up for you. Okay, excellent. Thank you so much. You're welcome. Again, you may always call us or visit ultimaterewards.com for any of your future travel needs. Is there any other reservation I can assist you with today?
+SPEAKER_02
+825.85--828.4
+ No, and I appreciate your help. Thank you so much.

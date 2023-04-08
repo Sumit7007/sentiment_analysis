@@ -1,0 +1,120 @@
+SPEAKER_03
+1.6--72.2
+ Thank you for calling the Shays Ultimate Travel Center. My name is Kisha and I'll be your travel advisor today. May I have your full name please? Susie K. And may I also have your 16-digit category number please? Okay, one moment please. And can you please provide me your zip code? I'm sorry, can you please repeat it? I can barely hear you. Sorry. Can you please repeat your zip code because I can barely hear you? 97068 Thank you so much for that information. And may I also have your best call-back number in case this call gets disconnected please? Thank you so much for that information and how can I help you today?
+SPEAKER_03
+73.05--73.1
+ you
+SPEAKER_02
+73.1--121.6
+ Hi, I have a car reservation originally supposed to be picked up today. We were not able to make the flight and so we would like to cancel this reservation. I was on the phone with you guys a few minutes ago trying to cancel this. One of the representatives on your end told me that the cancellation cannot be done because it's within, you know, because the reservation is for today and you guys cannot cancel it on your end and told me to call Dollar Tree directly. I called Dollar Tree directly and now they're telling me that they cannot cancel it on their end and I have to call you guys back and you guys need to call them directly to handle this cancellation. So here I am calling back.
+SPEAKER_03
+122.65--132.3
+ Oh, I'm so sorry for that one, ma'am. And by the way, can you please provide me your trip ID so that I can check on a certain reservation?
+SPEAKER_02
+132.3--144.0
+ 6C as in CAST, 4K, V as in VICTOR, 7J, S as in SAM, F as in F-
+SPEAKER_03
+144.0--150.5
+ Frank. Okay, let me just double check on this. Would you mind if I put in hold for a minute or two?
+SPEAKER_02
+151.45--151.8
+ Sure.
+SPEAKER_03
+152.45--154.5
+ Thank you so much for staying the living woman
+SPEAKER_01
+155.95--400.7
+ You are on hold. You are on hold. You are on hold. You are on hold. You are on hold. You are on hold. You are on hold. You are on hold. You are on hold.
+SPEAKER_03
+455.25--492.7
+ Hello Ben, thank you so much for patiently waiting and I'm so sorry for the long wait. And upon checking here on your account, our online specialist will assist you further with this for you to cancel this reservation, okay? Sure. I will need to transfer you to another department. Please note that if the expected wait time is since, you will be offered a call back. But if you choose to receive a call back versus waiting the next available agent, please follow the prompts, but don't worry, we will make sure that I will document all you can change for today so our online specialist will have an idea about your request.
+SPEAKER_03
+493.35--517.9
+ And before I let you go, is there anything else that I can help you with? No. Okay, and just in case you may have questions in the future, don't hesitate to call us back because we're open 24-7 or you can always go to our website which is ultimateawards.com for any of your travel needs. Thank you again for calling Ultimate Awards Travel Center. This is Kisha and you have a good day and keep safe. Please stay on the line. Thank you.
+SPEAKER_01
+519.249--520.2
+ You are on hold.
+SPEAKER_00
+539.65--546.8
+ Please listen. For Chase, press 1. For Capital One, press 2. For City, press 3.
+SPEAKER_04
+553.95--558.1
+ Thank you for calling help. Yes, my name is Bradley and I'll be your travel advisor.
+SPEAKER_03
+559.85--561.0
+ Thank you.
+SPEAKER_04
+561.0--561.4
+ Please.
+SPEAKER_03
+562.55--575.4
+ Hi, good morning. My name is Kishore from the Fan Find Department. I have the customer on the line. And she wants to cancel her reservation. It's a car about our
+SPEAKER_03
+577.55--578.3
+ Okay.
+SPEAKER_03
+579.35--607.6
+ The pick up date will be today, that's November 19th. And she already speaks to a previous agent that for her to cancel the reservation, she advised that she should contact the car rental company. But when she speaks to the car rental company, they said that they don't have the visibility under and because they booked the reservation with us.
+SPEAKER_03
+608.25--617.0
+ to the customer it's interesting that she wants to cancel this one because um their flight was cancelled so they they won't need this car anymore
+SPEAKER_04
+617.0--621.8
+ So, there's Lido's hand on the deal where they advise the policy of the current toll reservation.
+SPEAKER_03
+622.45--624.5
+ Yes, she was advised already.
+SPEAKER_04
+626.05--627.7
+ Candy happens to have the car number?
+SPEAKER_03
+629.15--629.6
+ Yes.
+SPEAKER_04
+631.15--631.4
+ you
+SPEAKER_03
+632.05--632.3
+ you
+SPEAKER_04
+650.55--653.6
+ um, Kenya will be the last four digits again, please be sure.
+SPEAKER_03
+654.15--654.5
+ It's
+SPEAKER_04
+657.15--668.5
+ Thank you. And how about the zip code please? Let me just access this one, okay?
+SPEAKER_03
+669.15--669.6
+ Okay.
+SPEAKER_04
+670.05--672.8
+ Okay, let's see, and how about the numbers then please?
+SPEAKER_03
+674.05--677.6
+ um the first thing is susie um it's the wife
+SPEAKER_04
+679.35--681.2
+ And how about the last thing?
+SPEAKER_03
+682.15--683.4
+ It's Suzy Kang.
+SPEAKER_04
+683.95--689.4
+ Oh, thank you. All right. And this is the only reservation on the air count, right?
+SPEAKER_03
+690.25--690.6
+ Yes.
+SPEAKER_04
+691.55--702.3
+ Okay, let's see here. So this is dollar car rental. And just check this one for some hearing just to be sure.
+SPEAKER_03
+703.95--704.9
+ Okay.
+SPEAKER_04
+704.9--761.5
+ So this is supposed to be for today, early or early afternoon. Okay, they call this around... You can just transfer the number now. For this one, it's actually not guaranteed. But we can actually cancel this because if you will check the reservation the pick up time is supposed to be 5 in the afternoon. But they actually call this around 10 in the evening. If they actually really want to cancel this one, they're supposed to be calling this much earlier or before the pick up time. But yeah, you can just transfer this. Thank you so much.
+SPEAKER_03
+762.25--768.4
+ You're welcome and thank you so much also for taking this call and have a good day. Thank you.

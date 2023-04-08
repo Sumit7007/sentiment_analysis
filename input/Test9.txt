@@ -1,0 +1,300 @@
+SPEAKER_01
+1.7--10.2
+ Thank you for calling the First Citizen Rewards. My name is Abigail. I will be your couple of specialists today. May I have your first and last please?
+SPEAKER_01
+11.35--32.0
+ Hi, my name is Christine. I have a mutual client that I Is wanting to book some hotels utilizing her the points? Okay, I can definitely ask the customer. Do you have the Customer IP well come be I think uh-huh
+SPEAKER_01
+32.55--56.3
+ I have the alchemy ID for the six count. Okay, I'm ready for the number. It is 458. One, three, four, five, six zeros. Okay, one, two, three, four, five, six, uh-huh. 517.
+SPEAKER_01
+57.25--68.0
+ Thank you so much for that. Give me one second. Of course.
+SPEAKER_01
+69.05--129.9
+ They are correct. Okay, what's the name of the customer, please? It is Mrs. Nan. Okay, thank you. I can definitely assist the customer now. Alright, here she is. You have a wonderful rest of your shift. You did the same, thank you. You're welcome. Mrs. Nan? Hello? Hi, my name is Abigail. I'm with the Fair Citizen Rewards. I want to let you know that this call is monitored or recorded. So I was told per Christine that you needed to make a hotel reservation. Is that correct? Yes. Okay, I can definitely help you with that. Like I said, this call may be monitored or recorded. And may I have your full name, please?
+SPEAKER_00
+131.95--135.2
+ Karen Main, N-A-I-N.
+SPEAKER_01
+135.85--146.4
+ Okay, thank you Marci's name. And also, what's going to be the destination for the hotel?
+SPEAKER_00
+148.95--171.7
+ This is the Staybridge Suites Hotel in Longview, Texas. The dates that, right, Longview. Uh-huh. And the dates that we are requesting are October, let's see, October the 3rd, and check out on Wednesday the 5th.
+SPEAKER_01
+176.65--184.3
+ Okay, I can definitely see what we have available for those specific dates that you're requesting.
+SPEAKER_00
+184.3--186.8
+ I want a king bed.
+SPEAKER_01
+188.85--222.9
+ Okay. Give me one second. I first have to find the destination. Give me one second. Okay. Thank you. And is that city located in Texas? Yes. Okay. You said that the name of the city is Longview. Longview, Texas. Yes, ma'am. Can you spell the city for me, please?
+SPEAKER_00
+225.25--225.5
+ We're
+SPEAKER_01
+225.5--228.5
+ Can you spell the name of the person?
+SPEAKER_00
+228.5--228.6
+ Thanks for watching!
+SPEAKER_01
+229.35--229.5
+ Thank you.
+SPEAKER_00
+229.5--239.4
+ Long, L-O-N-G, Longview, L-O-N-G-V-I-E-W, Longview.
+SPEAKER_01
+239.4--241.2
+ Okay, so it's one word.
+SPEAKER_00
+242.65--243.0
+ Yes.
+SPEAKER_01
+244.15--269.2
+ Okay, I was putting it as two words. That's why it was not giving me any results at all, but I have fixed the name. So let me just go ahead and proceed with this. And what's the name of the hotel that you would like to stay at? Staybridge Suite. Okay, I'm able to find that specific hotel that you're requesting and you said that you want to get a king bed. Is that correct? Yeah.
+SPEAKER_00
+270.45--271.0
+ Yes.
+SPEAKER_01
+274.25--300.4
+ I do see that there's one option that's called Studio Suite, one king bed with kitchen. It has a king bed. Right. Do you want the one with the kitchen or just like the regular room? Yeah. Okay. So the one with the kitchen. Right.
+SPEAKER_00
+300.55--300.9
+ Yes.
+SPEAKER_01
+301.65--326.8
+ Okay, so that one, it will be refundable up to, let me just go ahead and see when it's going to be refundable. It's going to be refundable before September 26, 2022. For the two nights that you're going to be saying that, it's going to be 22,295 points. You want to go ahead and ask a new?
+SPEAKER_00
+328.15--328.5
+ Yes.
+SPEAKER_01
+330.25--365.9
+ I want to let you know that fares and availability are not guaranteed until this reservation is confirmed. Okay, I'm going to go over the details of this itinerary. I'm going to give you the address just to make sure it matches your record. So it's going to be for the address that this hotel is located at, it's 3409 4th Street, Longview, TX 75605.
+SPEAKER_00
+367.55--368.0
+ Correct.
+SPEAKER_01
+368.55--378.4
+ And the name of the hotel is the State Bridge Suites Long View. And the check-in date will be October 3rd.
+SPEAKER_01
+379.05--382.8
+ and check out the ABLE via October 5th, 2022.
+SPEAKER_00
+383.05--383.4
+ Yes.
+SPEAKER_01
+383.85--384.4
+ Okay.
+SPEAKER_00
+384.4--385.1
+ Correct.
+SPEAKER_01
+386.15--433.2
+ And it's going to be the room type. It's going to be one studio suite, one king bath kitchen. It is going to be, it's a non-smoking room. It's pet friendly. I'm going to go over the rules, policies, and regulations of the hotel. Cancellations made after September 26, 2022, 6 p.m. property local time are subject to one night penalty plus taxes and fees. If you fail to check in for this reservation, or if you cancel or change this reservation after check-in, you may incur penalty charges at the discretion of the property up to 100% of the booking value. Do you have any questions for me?
+SPEAKER_00
+433.2--439.3
+ If I need to cancel, do I cancel with the hotel or do I call you back?
+SPEAKER_01
+439.3--443.7
+ you have to call us so we can cancel this reservation for you.
+SPEAKER_00
+443.7--446.8
+ Okay, all right. There shouldn't be, but you never know.
+SPEAKER_00
+447.35--448.1
+ Yes.
+SPEAKER_01
+448.1--465.9
+ So let me just go ahead and begin to check out for you. And also I'm just going to need the personal information of the guest, the way that it shows on the governmental issue ID. What's going to be the first name of the person who's going to be checking in?
+SPEAKER_00
+465.9--476.2
+ Um, well, I guess you're going to have to use my information. My husband's not here, so is this information off of my driver's license?
+SPEAKER_01
+476.2--476.9
+ Yes.
+SPEAKER_00
+476.9--483.6
+ Okay, I'll give you mine.
+SPEAKER_01
+487.55--488.7
+ we have a middle link
+SPEAKER_00
+488.95--493.1
+ Last. L initial L.
+SPEAKER_01
+494.35--498.7
+ And what's going to be your email address so I can send you a January email?
+SPEAKER_00
+500.55--511.9
+ Karen.Nain and that's N-A-I-N at NainLLC.com.
+SPEAKER_01
+516.35--519.1
+ Okay, what's your date of birth?
+SPEAKER_00
+521.45--524.6
+ 030456.
+SPEAKER_01
+530.65--538.3
+ And what's going to be a good phone number for the hotel to call you just in case if there's any changes to this itinerary?
+SPEAKER_00
+540.25--546.9
+ 828-455-1677.
+SPEAKER_01
+546.9--553.1
+ It is to confirm it's 828-455-1677.
+SPEAKER_00
+554.65--554.9
+ Go.
+SPEAKER_01
+554.9--566.4
+ Okay, what if this call gets disconnected? Can I call you back to that number, the one that you just provided? Yes. Okay, do I have your authorization to call you back?
+SPEAKER_00
+568.55--568.9
+ Sure.
+SPEAKER_01
+569.65--592.6
+ Thank you. Okay, I'm going to go over your name. I'm going to spell your name and your last name for you. And if you hear any errors, let me know, okay? So for your first name I have Karen, K as in King, A as in Apple, R as in Romeo, I as in India, and S as in Nancy.
+SPEAKER_00
+592.6--598.7
+ Nope. K-A-R-E like Edward. N. There's no I.
+SPEAKER_01
+600.65--621.6
+ I'm just to confirm it's K King a apple are Romeo II echo and Nancy guess and middle name is L Lima right last name name and Nancy a apple I India in that
+SPEAKER_01
+624.75--627.4
+ And for your email address, I have.
+SPEAKER_01
+628.35--643.8
+ Your first name, Karen, dot, your last name, name, at your last name, LLC, dot com. Correct.
+SPEAKER_01
+644.35--657.7
+ Okay. And then for your data verse, I have March 4, 1956. And what is your seat code number please for the credit card?
+SPEAKER_00
+659.25--662.9
+ For the credit card, it is 28603.
+SPEAKER_01
+665.65--676.6
+ Thank you. And what state are you located in? North Carolina?
+SPEAKER_00
+676.6--677.8
+ Correct.
+SPEAKER_01
+682.25--740.7
+ Okay, I am now ready to redeem 22,295 points for a hotel reservation that is going to be for October 3rd to October 5th. Do I have your authorization to redeem your points from the account? Yes. Okay, thank you. Now let me just go ahead and proceed with this request. Again I want to let you know that a Real ID compliant government issued photo ID is required upon check-in or a valid passport or a valid driver's license and a major credit card in the list traveler's name. Local taxes and reserve fees are not included in the reservation rate. Feel free to call the hotel or visit their website for further information. The details that are recorded will be collected from your credit card on file by the hotel. I am now ready to give you your Trip ID number. Let me know whenever you are ready.
+SPEAKER_00
+740.7--747.9
+ Well, I also need to book a room in Memphis. Is that something you can help me with?
+SPEAKER_01
+747.9--757.3
+ I can definitely help you with that, but I would have to do it one at a time. So do you want me to send you a fighting number or do you just want to get that email?
+SPEAKER_00
+757.3--764.6
+ Well, I'd like both. So this is.
+SPEAKER_01
+764.6--785.5
+ Alright, what's the number? Okay, so the trip ID number for this reservation, and that's how we're going to be able to locate this, with this number, that's how we're going to be able to locate it in the account records. It's going to be 51258270.
+SPEAKER_00
+787.85--788.3
+ Okay.
+SPEAKER_01
+789.75--804.1
+ And that will be your trip ID number. And also on the itinerary email you're going to be able to find the booking confirmation number for the hotel. Do you want me to give that to you or do you want to wait until you get that email?
+SPEAKER_01
+804.85--804.9
+ you
+SPEAKER_00
+804.9--808.9
+ Just send that to me all in the email. That'll be fine. Okay.
+SPEAKER_01
+808.9--833.9
+ will be on the email. If you want, say, JYO, I save your information here. Okay, so I have sent you all the information now. And you said that you want to book a different hotel room for a different city. Is that correct? A different city.
+SPEAKER_00
+833.9--835.7
+ Yeah, different studying.
+SPEAKER_01
+835.7--839.8
+ Okay, you said it's going to be Nashville? What's going to be the destination?
+SPEAKER_00
+839.8--863.7
+ No, let's see. Let me see here. I'm going to see what I can pull up. In the Bartlett, Tennessee area. So that's like right outside of Memphis. I think I'd be interested in the Bartlett area. Mh. OK.
+SPEAKER_01
+863.7--868.3
+ tell the name of the city for that specific area.
+SPEAKER_00
+868.3--873.4
+ V-A-R-T-L-E-T-T.
+SPEAKER_01
+877.55--881.0
+ B-A-R-T-L-E-T-T.
+SPEAKER_00
+883.05--896.4
+ Bart, B-A-R-T, Bart, Bartlett. Let's see, what have I got here? That's some nice places there.
+SPEAKER_01
+904.15--905.2
+ oh
+SPEAKER_00
+907.75--925.0
+ I tell you those rooms aren't cheap. Mm-mm-mm. How about... Well, there's a Hilton Garden Inn. I don't want that. Holiday Inn. Are you looking at the Bartlett area? Do you see that?
+SPEAKER_01
+925.0--947.7
+ And just give me one second. It's going to be the check-in date.
+SPEAKER_00
+949.75--955.7
+ uh the following day from that what is that uh october the 5th maybe the wednesday
+SPEAKER_01
+957.85--961.7
+ October the 5th and what's going to be the checkout date.
+SPEAKER_00
+963.15--972.4
+ The next day, it was at the seventh, uh, the sixth. So it'd be the fifth, Wednesday the fifth, and then check out on the sixth. Okay, got it.
+SPEAKER_01
+972.4--977.8
+ And what's going to be the name of the hotel?
+SPEAKER_00
+977.8--993.4
+ Well, you know, I'm looking at that. Trying to decide. If I haven't made a decision, do I need to call you back?
+SPEAKER_01
+995.85--996.5
+ Well, yeah.
+SPEAKER_00
+998.85--1020.5
+ okay um so when I put in uh when I put in the the um Bartlett it is still pulling up Memphis but um there's an awful lot of stuff to look at there
+SPEAKER_00
+1023.25--1062.5
+ It's an embassy suite. Um, I'll tell you what, let me, let me look at this. I do not want to be down inside the middle of Memphis. That is for sure. Um, I used to live there and I just don't have any desire to spend my time in the middle of there. Um, there is a Holiday Inn and Suites. Um, I'll tell you what, let me just look through this. There's a lot for me to look at. Alright, so is there a number I can call you back at or do I have to go back through the other numbers? Is there a number I can call the rec?
+SPEAKER_01
+1062.5--1066.9
+ It will be the same number that's on the back of your credit card, the travel reward.
+SPEAKER_00
+1070.95--1072.2
+ Do you have that number?
+SPEAKER_01
+1072.85--1082.5
+ It's 1-866-958-8052.
+SPEAKER_00
+1086.65--1089.8
+ 958-805-2866.
+SPEAKER_01
+1090.35--1090.9
+ Yes.
+SPEAKER_00
+1090.9--1099.9
+ Okay, and that's the travel. Because she transferred me over to you. All right, all right, and that'll get me to travel directly.
+SPEAKER_01
+1101.05--1105.6
+ Just whenever you hear the prompts, just make sure that you hit the trouble.
+SPEAKER_01
+1106.15--1115.1
+ for trouble and then it will direct you to us. Okay. All right. Is there anything else? I'll do that.
+SPEAKER_00
+1116.55--1125.4
+ uh no i just need to um i need to look through this and see where we want to stay in memphis so all right that'll work then and cable
+SPEAKER_01
+1125.4--1162.2
+ That'll work for me. Okay, and I have sent you an itinerary email. You should receive it within the next two hours. Once you get it, just make sure that your name and all details match, and if you have any questions, feel free to call us. And thank you so much for calling First Citizen Rewards. And again, thank you, and just to make sure that you can view and search all rewards by visiting www.firstcitizenrewards.com. Okay, that's great. Thank you so much. You're welcome, and thank you for giving me the opportunity to work with you. You have a nice day.
+SPEAKER_00
+1163.65--1164.6
+ Okay.

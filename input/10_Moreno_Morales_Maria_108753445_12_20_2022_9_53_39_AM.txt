@@ -1,0 +1,147 @@
+SPEAKER_00
+4.4--13.8
+ Hello, this is calling chief of the team of the center. My name is Maria. I'll be your travel advisor today. May you please call me your person last name?
+SPEAKER_01
+15.35--16.5
+ Quiet addictions.
+SPEAKER_00
+16.5--22.1
+ Thank you. Can you please display your first name for me?
+SPEAKER_01
+23.75--35.4
+ M is in Mary, A is in Apple, R is in Robert, Q is in Quit, U is in Umbrella, I is in Iguil, P is in Tom, T is in Tom, A is in Apple.
+SPEAKER_00
+35.4--42.4
+ Thank you. Are you current regarding an existing reservation or would this be for a new reservation?
+SPEAKER_01
+43.55--44.5
+ and existing.
+SPEAKER_00
+45.75--48.1
+ May I please have the trip ID number?
+SPEAKER_01
+50.75--57.8
+ Uh, I have to look at that. You don't see any spikes with my car.
+SPEAKER_00
+57.8--69.2
+ I haven't, I don't, the system didn't auto-populate the account, but I can try to log into the account using the credit card number. Can you please provide me with the credit card number?
+SPEAKER_01
+71.65--94.1
+ Uh, man, I think I did the song. I have a trip ID. S is in Sam, Q is in Quik, G is in girl, B is in boy, H, V is in Victor, J is in Jack, A is in Harry, six. I think I did this wrong.
+SPEAKER_00
+95.45--95.5
+ you
+SPEAKER_01
+95.5--113.8
+ Thank you. I tried to cancel these flights through Southwest, but I don't have a chance to do Southwest. But some of them I'll have to call you guys to cancel. I don't know. I don't know. I've been sick with COVID, so I don't know what's going on. I'm sorry. I have a brain fog right now.
+SPEAKER_00
+114.85--125.5
+ I apologize for that. Let me go ahead and double check on the reservation. I do, I will need the credit card number to fully verify the account. May I please have the credit card number?
+SPEAKER_01
+125.5--127.8
+ Yeah, I have to grab it. Give me one second.
+SPEAKER_00
+128.05--129.0
+ Yes, no problem.
+SPEAKER_01
+138.75--140.1
+ Okay.
+SPEAKER_00
+152.85--174.5
+ Thank you. May I have the zip code please? Thank you. In case the call gets disconnected, do have your permission to return the call.
+SPEAKER_01
+176.65--178.0
+ Yeah.
+SPEAKER_00
+181.65--198.2
+ What's the best phone number? Thank you. Okay, and you mentioned that you canceled the flight directly with Sheldrake?
+SPEAKER_01
+199.45--205.3
+ Yeah, but I think there were two flights that I could not cancel through Southwest. I had to cancel through you.
+SPEAKER_00
+206.65--220.0
+ Okay, let me go ahead and double check. Let's see. Okay, and this slide is for two passengers, yourself, Merquida Dixon and Terry John Pickett.
+SPEAKER_01
+220.75--229.9
+ Yeah, which flight was that though? I don't remember which one. Is that the one that was supposed to leave from Chicago to Miami or Miami to Chicago?
+SPEAKER_00
+229.9--236.5
+ This went from Miami to Chicago on Wednesday, December 21, 2022.
+SPEAKER_01
+236.5--241.5
+ Okay, so what I need to cancel that and then I need to know what happens when my money.
+SPEAKER_00
+241.95--256.2
+ Let me go ahead and check on the fare rules of the flight. It shows that it's nonrefundable, but let me see what other options the airline provides, okay? Let me go ahead and check on the fare rules of the flight.
+SPEAKER_01
+256.2--261.899
+ The airline provides flight credit, but it's okay. Go ahead and do your job. I'm sorry. Go ahead.
+SPEAKER_00
+264.65--271.6
+ No problem. Is it okay if I please you on hold for about two or three minutes and I'll be right back? Yep, that's fine. Thank you.
+SPEAKER_02
+273.75--396.7
+ You are on hold. You are on hold. You are on hold. You are on hold. You are on hold.
+SPEAKER_00
+460.75--479.8
+ Hello, I'm Zyxson. Yes, I'm here. Thank you so much for waiting. Just a quick, really fast update. I'm still working on getting the fair rules. It shows that it does qualify for a credit. I just need to confirm with one of our travel specialists. Is it okay if I place you on another report for about two or three minutes and I'll be right back.
+SPEAKER_01
+481.05--482.0
+ Thank you.
+SPEAKER_00
+482.0--482.6
+ Thank you.
+SPEAKER_02
+484.45--485.4
+ You are on hold.
+SPEAKER_00
+594.35--595.3
+ Hello,Zixn.
+SPEAKER_01
+596.35--597.2
+ Yes, I'm here.
+SPEAKER_00
+597.85--616.5
+ Thank you so much for patient and waiting. Okay, so yes, I was able to confirm it shows that it does qualify for a credit So we can cancel the reservation and apply that credit. You will have a whole year to use it I just need to confirm. Are we going to cancel the flight for both passengers for more critics in and Terry John picket?
+SPEAKER_01
+617.75--644.7
+ Yes, and then I do have to mention that the Southwest New World is that the credit never expires. So is it only because, is it because, I'm sorry hold on, do I only have a year to use the travel credit because I've looked your chase travel? Because if I cancel through Southwest there's no expiration date while I'm using the travel credit. Which is fine because I'm going to use it before in a year anyway. But I'm just wondering.
+SPEAKER_00
+645.85--680.7
+ As of right now, yes, that's what we have from the airline, the fare rules from them. We haven't received any update, but I will go ahead and check on it. I will notate the account, but as of right now, that's what we have on the rules. Okay. Okay, so let me go ahead and then continue with the cancellation. We'll start with the cancellation to apply the credit. I just want to confirm we will be canceling the flight from recruiter Al Dixon and Terry John Piquette from Miami to Chicago for Wednesday, December 21st, 2022.
+SPEAKER_01
+681.75--689.8
+ And where do I find the site credit? Do I have to book it through you guys to use the credit, or can I book it through Southwest? I wouldn't know what, it's Southwest.
+SPEAKER_00
+691.55--705.2
+ It will be stored with them, yes, since the credits would be airline, but they will recommend the reservation with me through Chase, through us for you to book through us, with us to read book.
+SPEAKER_01
+706.65--712.5
+ So I can't read booklets, I have to read booklets, hey? The most interesting information one could get information, not of anything.
+SPEAKER_00
+712.5--747.8
+ Okay, that's fine. Okay, also I wanna advise you that once we cancel the reservation, there's no way to restore the same exact one. If you have to rebook the same one, you will have to be at current first and availability. Okay. Okay, also another thing, the credit can only be used for the original passengers, it cannot be changed or transferred. Okay. Okay, so let me go ahead and then cancel the flight and apply the credit, if you can just give me about a minute on the line.
+SPEAKER_01
+749.15--749.5
+ Okay.
+SPEAKER_02
+756.45--756.9
+ Okay.
+SPEAKER_00
+760.55--817.7
+ Okay, so the flight has been canceled. Let me go ahead and apply that credit. Give me one minute. Okay, so the credit has been applied to the flight. Whenever you're ready to rebook, give us a call back and provide the same CRIP ID number. And like that, we can go ahead and assist you on making that new reservation. Okay. Okay, so good. Thank you. My pleasure. Before I let you go, is there any other reservation you might need assistance with?
+SPEAKER_01
+819.05--819.9
+ Get on up there, set up.
+SPEAKER_00
+821.65--830.5
+ I do want to thank you for calling Chase Altamont Rewards Travel Center. Reminder that we are open 24x7, so in case you need anything else, feel free to give us a call back.
+SPEAKER_01
+831.55--833.1
+ Okay, thank you.
+SPEAKER_00
+833.1--836.2
+ Thank you and hope you enjoy the rest of your day. Happy Holidays.
+SPEAKER_01
+837.15--838.0
+ Happy holiday.

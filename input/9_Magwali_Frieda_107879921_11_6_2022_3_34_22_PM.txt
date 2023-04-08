@@ -1,0 +1,99 @@
+SPEAKER_01
+0.0--9.2
+ Welcome and thank you for calling the Chase Ultimate Awards Travel Center. My name is Frene, I'll be your travel advisor for today. How can I help you? Hi!
+SPEAKER_00
+9.2--15.9
+ I just wanted to actually cancel a flight that I have upcoming.
+SPEAKER_01
+15.9--25.6
+ Yes, of course, I can definitely assist you with that. But before I proceed, ma'am, since this is an existing reservation, can I have the trip ID for that reservation for me to pull it up?
+SPEAKER_00
+27.55--31.4
+ Sure. Just give me one second.
+SPEAKER_01
+32.249--33.0
+ Amen.
+SPEAKER_00
+35.25--55.8
+ Okay, it is T as in Tom, K as in kitten, V as in vehicle, D as in Dan, 4, 7, M as in mom, N as in no, B as in boy.
+SPEAKER_01
+56.55--64.4
+ Okay, thank you, ma'am. And also going to have your best call back number and your consent if in case a call will be disconnected.
+SPEAKER_00
+64.4--70.8
+ Yeah, my callback number is 704-706-7466.
+SPEAKER_01
+70.8--76.9
+ That's lovely mom, just pardon me ma'am. And also can I have your complete name to address you properly.
+SPEAKER_00
+77.45--79.1
+ So sure, it's Rachel Rhodes.
+SPEAKER_01
+79.95--89.2
+ Okay, so I'm Rachel, so can you verify the name of the airline, the passengers, and also the flight details for me to verify the account.
+SPEAKER_00
+90.15--116.8
+ Sure. So let's see, the airline is American Airlines. It's a multi-stop trip, so the first leg is from New York, LaGuardia to Charlotte, and then the second leg is from Raleigh to New York. I only need to cancel the first leg, by the way. I wanna keep the second. And then it's just for one passenger, Rachel Rose, myself.
+SPEAKER_01
+117.35--119.3
+ And what would be the dates, ma'am?
+SPEAKER_00
+120.25--133.7
+ The dates are departure on Saturday, November 19th, and then the return is Wednesday, November 30th.
+SPEAKER_01
+133.7--149.9
+ Okay, thank you ma'am Rachel. So let me check the rules of the ticket before we proceed to the cancellation if we can be able to only cancel one leg of the reservation. Okay, thanks. Just saying the line, just give me two to three minutes. Thank you ma'am.
+SPEAKER_00
+150.35--150.9
+ Thank you.
+SPEAKER_03
+152.95--275.8
+ You are on hold. You are on hold. You are on hold. You are on hold. You are on hold.
+SPEAKER_01
+332.25--350.0
+ Thank you for patiently waiting, Miss Rachel. Yeah, hi, no worries. Okay, so as per check with the rules, this is a non-refundable ticket and also changes not permitted. And also we cannot cancel only one leg of the flight map, even if this is a refundable reservation.
+SPEAKER_00
+350.85--359.5
+ Okay, so essentially, I mean, that's fine. I just won't show up for the first leg.
+SPEAKER_01
+360.85--368.5
+ Okay, if you don't show up on the first leg of the reservation, you will not be able to use the return flight map.
+SPEAKER_00
+370.45--378.8
+ Really? They'll cancel, why would they cancel that flight too? I'm sorry, ma'am? Why would they cancel that flight as well?
+SPEAKER_01
+380.95--393.2
+ That is the rules of the ticket month for American Airlines. Okay. And even if you wanted to cancel it, it's not eligible for travel credit.
+SPEAKER_00
+394.95--402.0
+ Okay, so what is my best option for making sure I have the return flight?
+SPEAKER_01
+403.25--427.0
+ Okay, so for another option aside from the one that I provided ma'am So I need to transfer over to our specialist desk if you'd like ma'am So they can ask for American Airlines if they can be able to cancel your outbound flight and use the return flight But there's no guarantee mom because usually okay If you're not going to show up on the outbound flight automatically the return flight will be automatically forfeited
+SPEAKER_00
+427.75--436.1
+ Yeah, I know I'm glad you explained that, but yeah, if you don't mind transferring me, I just want to see if there's anything I can do to keep that inbound flight.
+SPEAKER_01
+436.1--446.4
+ Yes, yes, of course, mama Gaye. But such expectation that they will ask for verification again, but you don't need to worry. I'll take note of what is your concern all about for you not to repeat yourself.
+SPEAKER_00
+446.75--449.4
+ Okay, no worries. Thank you so much.
+SPEAKER_01
+449.4--452.8
+ Welcome ma'am, is there anything else aside from this before I transfer the call?
+SPEAKER_00
+453.65--453.8
+ you
+SPEAKER_01
+453.8--466.2
+ No, I think I'm okay. Thank you. Okay, thank you, Mom Rachel. And also, if in case, if it's more than five minutes of waiting, you do have two options. You can stay on the line or you can make a request for a call back instead. Just follow the voice prompt now, okay?
+SPEAKER_00
+466.95--468.1
+ Okay, sounds good.
+SPEAKER_01
+468.1--471.4
+ Okay man, have a lovely day mom Rachel, just stay in the line, bye bye!
+SPEAKER_03
+471.95--475.1
+ Bye. You are on hold.

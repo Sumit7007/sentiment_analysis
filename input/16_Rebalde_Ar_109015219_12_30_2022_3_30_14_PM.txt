@@ -1,0 +1,237 @@
+SPEAKER_02
+1.1--9.3
+ Hi, welcome and thank you for calling Chase Ultimate Rewards Travel Center. My name is RJ and I'll be your travel advisor today. I have your full name please.
+SPEAKER_01
+10.05--13.6
+ Nadia N-A-D-I-A Merchant M-E-R-C-H-A-N-T.
+SPEAKER_02
+14.75--16.2
+ I'm sure what's your last name?
+SPEAKER_01
+17.25--19.4
+ Merchant M-E-R-C-H-A-N-T.
+SPEAKER_02
+20.75--24.3
+ And then I have your 16 digit case card number.
+SPEAKER_01
+25.55--28.3
+ Uh, yeah.
+SPEAKER_02
+36.85--60.7
+ Thank you. Can I also ask you for your billing zip code? Sorry, your billing zip code? What's your billing zip code? Thank you. While I pull up your account, I would like to ask for your best callback number and your consent to be contacted just in case our call get disconnected.
+SPEAKER_00
+61.25--61.5
+ That's it.
+SPEAKER_02
+70.55--86.1
+ Thank you. Okay, uh Mr. Merchant, I see here. This is your chase upper reserve with ultimate rewards and currently you have here a 9850 ultimate rewards points. So how can I see you today?
+SPEAKER_01
+87.05--108.0
+ So I myself so I have a ticket for today for tomorrow to return from uh, national tennessee But my southwest flight got cancelled so I didn't go on the trip Um, and there was no flights available to travel so I didn't know what I was wondering what options I have to cancel the ticket
+SPEAKER_02
+109.75--123.2
+ Okay, just to confirm here, your return flight you cannot check into your attend, I mean you cannot check into your return flight since you were not able to take your off-bound flight, correct?
+SPEAKER_01
+123.65--125.0
+ Yeah. Yeah.
+SPEAKER_02
+125.0--133.3
+ Okay, I understand. I would like to ask you what the reason why you weren't able to check in.
+SPEAKER_01
+133.3--134.8
+ My flight got cancelled.
+SPEAKER_02
+135.45--137.9
+ Okay, the airline can't stop your reservation.
+SPEAKER_01
+138.95--139.2
+ Yeah.
+SPEAKER_02
+139.95--156.4
+ I see. I'm so sorry to hear that here, Ms. Merchant. We don't want you to have that kind of experience. I know it's very upsetting, but no worries. I'll try my best here to assist you. I just need to ask here for your trip ID, for the outbound and for the return flight.
+SPEAKER_01
+157.75--166.4
+ Okay, so for the return, the flight confirmation number is QG-UTA.
+SPEAKER_02
+167.15--174.5
+ Oh, I'm referring to the trip ID. It should be on the email on the upper side. They don't.
+SPEAKER_01
+174.5--180.7
+ Let me see if I get signed. My other one was Southwest.
+SPEAKER_01
+181.55--183.9
+ Let's see.
+SPEAKER_00
+187.15--187.9
+ Thank you.
+SPEAKER_01
+194.95--204.1
+ Okay, my trip ID was. Okay, number you made is that what you want.
+SPEAKER_02
+204.85--209.1
+ The trip ID. It should be on the email on the other side.
+SPEAKER_01
+209.1--214.2
+ It's the conservation number, right? I have either a conservation number or a ticket number.
+SPEAKER_02
+214.95--221.3
+ On the email on the upper on the upper side. Does it say any where there the trip ID?
+SPEAKER_00
+223.95--225.0
+ Uh...
+SPEAKER_01
+225.0--228.0
+ Now I just have the CIP number.
+SPEAKER_02
+229.05--230.4
+ only have the trip number.
+SPEAKER_01
+230.85--233.3
+ the confirmation number and then I have the ticket number.
+SPEAKER_02
+236.15--237.3
+ What airline is this?
+SPEAKER_01
+238.55--239.0
+ That's why.
+SPEAKER_02
+240.75--243.2
+ for your return flight southwest.
+SPEAKER_01
+244.05--247.6
+ No, for my going to the Southwest, my return is American.
+SPEAKER_02
+249.15--257.7
+ Oh, okay. So your return flight is for southwest while you're outbound. It's gonna do with American and going to be going into cabin 1, to clear way up to old there absolutely had a big
+SPEAKER_01
+258.65--269.4
+ No, it's the other way around. My going was Southwest. My return is American Airlines. That's the one that I still have the reservation for for tomorrow.
+SPEAKER_02
+269.4--282.6
+ Okay, so your return flight is with American Airlines, I see. What's the departure city here and the arriving city?
+SPEAKER_01
+283.35--287.8
+ It's still a national Tennessee DNA.
+SPEAKER_02
+288.15--288.6
+ Mm-hmm.
+SPEAKER_01
+288.6--289.2
+ the DCA.
+SPEAKER_02
+290.15--296.2
+ Okay, and what's the, can you provide me again the airline confirmation number or the airline confirmation code?
+SPEAKER_01
+298.05--300.6
+ For the American Airlines.
+SPEAKER_00
+300.6--300.8
+ Thanks for watching!
+SPEAKER_01
+301.85--302.4
+ Um
+SPEAKER_00
+307.95--308.6
+ Bye.
+SPEAKER_01
+315.75--317.5
+問答案
+SPEAKER_00
+321.35--321.7
+
+SPEAKER_01
+337.65--341.6
+ Oh, yeah, it is. No, that's not it. That's the one.
+SPEAKER_02
+342.85--349.7
+ I think you were already giving me earlier the one, that one airline confirmation number, the airline confirmation code.
+SPEAKER_01
+350.85--363.2
+ Yeah, but you said you wanted the ticket. I mean, I have the ticket number. I have it open right here and it's Q. The flight confirmation number is QGBUTA.
+SPEAKER_02
+363.55--365.3
+ Yes, okay. Thank you for that.
+SPEAKER_01
+366.55--368.3
+ I have the trip ID. You want the trip ID?
+SPEAKER_02
+368.75--369.5
+ Yes, go ahead.
+SPEAKER_01
+370.35--376.0
+ 3M6KCG6DS
+SPEAKER_02
+376.95--385.7
+ Thank you. Yes, I see another reservation here. So this is your outbound flight on December 31st. Okay.
+SPEAKER_01
+385.7--393.3
+ Yes. So I have to cancel the ticket anyway, because I can't come back on it for the night, and it's you right now.
+SPEAKER_02
+400.15--408.2
+ Okay, just to confirm again, which one was the reservation get cancelled? Your return flight? Correct, your return flight. No, get cancelled.
+SPEAKER_01
+408.2--412.1
+ My flight on the 28th got cancelled on Southwest.
+SPEAKER_02
+412.1--417.4
+ Oh, okay. Do you have that trip ID?
+SPEAKER_01
+419.15--451.1
+ So that was where Southwest does not give Southwest the trip. Yeah, so the ticket for that one, it's the 3HNTID was my confirmation number. And the ticket number was 526-219-204-5223.
+SPEAKER_02
+458.85--462.9
+ um i need a trip id same as one because i don't see any
+SPEAKER_01
+462.9--468.0
+ Not on Southwest. It wasn't booked on Chase Travel, that's why.
+SPEAKER_02
+468.0--479.5
+ Oh, I see. I understand. Okay, so you need to cancel this reservation here. Allow me three minutes to further investigate this one, okay?
+SPEAKER_01
+480.25--481.0
+ Thank you.
+SPEAKER_02
+481.55--483.9
+ You're welcome. Allow me to admit.
+SPEAKER_00
+486.55--609.5
+ You are on hold. You are on hold. You are on hold. You are on hold.
+SPEAKER_02
+646.45--648.5
+ Hello? Oh yeah.
+SPEAKER_02
+649.15--689.3
+ Yes, thank you for patiently waiting here. As I have checked here with your reservation, Ms. Merchant, is that sadly, it shows here that the reservation, it is a nonrefundable and also changes is not permitted. So it means it is not eligible for any travel product or flight product. It is because as I've checked here, the one that you have chosen is the most restrictive plus, the basic economy. And as much as I would like to proceed to cancel here, our system will not allow us to, since we are only a third party here and we only follow the airline's policy.
+SPEAKER_01
+690.05--697.3
+ Can you cancel this again? So that way if somebody else needs to book it, they can at least book it. So like, yeah, but it's about to call a cancel.
+SPEAKER_02
+698.65--701.6
+ Oh, you mean change.
+SPEAKER_01
+701.6--709.4
+ I'm not going to be on the flight because it's peak holiday season and so I know that other people might be waiting to buy us seats.
+SPEAKER_02
+712.25--717.9
+ Well, you just want to cancel this reservation without getting any refund.
+SPEAKER_01
+719.25--721.1
+ Yeah, that's fine. What else do I do?
+SPEAKER_02
+722.05--726.4
+ Well, you can try to request it through the American Airlines if you want.
+SPEAKER_01
+727.85--729.3
+ I'd like to identify.
+SPEAKER_02
+729.3--745.6
+ Yes, you can try to request to American Airlines if they will approve a request of cancellations since you were not able to take your outbound flight here since the Salchow's Airlines cancelled their flight. You can try to request it through them if you want.
+SPEAKER_01
+745.6--747.8
+ Okay.
+SPEAKER_02
+747.8--752.0
+ Okay, thank you. You're welcome. Is there anything else that can help with?
+SPEAKER_02
+752.75--765.4
+ Nope, that's it. Thank you. Okay. Alright, bye. Listen for the call-ups anytime. You are up to number 7 or visit our website, ultimate-true-result-dom, for any of your future travel needs. Take care for quality software at the Stoke Travel Center. Have a great day.

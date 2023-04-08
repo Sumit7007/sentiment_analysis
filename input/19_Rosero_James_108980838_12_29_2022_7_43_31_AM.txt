@@ -1,0 +1,90 @@
+SPEAKER_04
+1.1--10.5
+ Welcome, thank you for calling CHASE Ultimate 3 World Travel Center. My name is Dane and I'll be your travel advisor. May I have your first and last name please?
+SPEAKER_02
+10.5--18.6
+ Yeah, it's Michelle, M-I-C-H-E-L-L-E, types, E-H-E-I.
+SPEAKER_04
+21.15--27.6
+ Thank you very much. And for me to be able to pull up your account, may I have your 16-digit credit card number please?
+SPEAKER_02
+29.15--32.0
+ Um, yeah, one second.
+SPEAKER_01
+35.35--51.3
+ So, may alam mo sa pwede sa stream for me. Alarisha, may alam mo sa stream ko. Aligay, may nandabi na tayo. Aligay, may nandabi na tayo. Diwala na, actually, nandabi na tayo. Aligay, may nandabi na tayo. Aligay, may nandabi na tayo.
+SPEAKER_02
+52.35--53.3
+
+SPEAKER_04
+67.05--70.9
+ Thank you very much. And also may I have your billing zip please?
+SPEAKER_01
+74.95--79.9
+
+SPEAKER_04
+81.25--84.5
+ Thank you very much. Hold on for a second. Let me just pull up your account here.
+SPEAKER_02
+85.65--88.1
+ Okay.
+SPEAKER_04
+91.65--108.2
+ And also, Ms. Sides, could you please verify to me what is the name of the account? What is it? Could you please verify to me, Ms. Sides, what is the name of the account?
+SPEAKER_02
+108.2--108.7
+ Yeah.
+SPEAKER_03
+109.05--112.0
+ It should be Michelle and Ty.
+SPEAKER_04
+112.0--131.0
+ Thank you very much, Ms. Tice. And also may have a best fallback number that we can use in case this line got disconnected. Thank you very much. And also may have your permission, Ms. Tice, to call you right back in case this line got disconnected. Would that be okay?
+SPEAKER_02
+132.05--132.3
+ Yeah.
+SPEAKER_04
+133.95--154.0
+ Awesome. Now I can see here that you're calling Andrea Chiesa for preferred ultimate rewards. Now are you calling with regards to an existing booking or a new reservation? Yeah, existing booking. May I have the trip ID so that I can pull up here? Yeah…
+SPEAKER_03
+154.0--162.0
+ it's P as in Peter, P as in Tom, H as in
+SPEAKER_02
+162.0--162.1
+ Thanks for watching!
+SPEAKER_04
+164.65--167.3
+ Okay.
+SPEAKER_02
+167.3--170.4
+ be표 Um
+SPEAKER_03
+170.4--173.3
+
+SPEAKER_04
+173.3--179.2
+ the app. Thank you very much. Hold on for a second. Let me just pull up this itinerary.
+SPEAKER_01
+182.75--183.0
+ Yeah.
+SPEAKER_04
+187.45--213.0
+ And I just need to make sure that we are on the same page here, Ms. Slice, that this will be for one passenger. That will be Michelle Marie Slice, and this will be a one-way trip from Pittsburgh going to Charlotte on 2nd of January, 2023 with Southwest Airlines. That will be a one-stop layover and one-a-get-away class of service. How may I help you for this trip, Ms. Slice?
+SPEAKER_03
+214.25--251.8
+ Well, the Southwest has been having so many cancellations and everything and so I want to see what my options are as far as this goes. Like if I cancel, I can't even get in touch with Southwest. So if I am I able to cancel through you guys, are you able to give me a refund or any type of? I had an issue with getting home and now I'm afraid I'm going to have an issue with getting back to Charlotte. So I wanted to call and see what the options were.
+SPEAKER_04
+252.35--281.4
+ Okay, no worries. Miss Sighs, let me just go ahead and pull up and review the fair policy here with your itinerary so that we can see what are the options if you were going to cancel this trip, okay? Now, is it okay if I will be placing this quote and hold for me there too? Would it be okay? Let me just go ahead and check the fair policy. Yeah. Alright, thank you very much, Miss Sighs. Please stay on the line here.
+SPEAKER_00
+282.45--527.2
+ You are on hold. You are on hold. You are on hold. You are on hold. You are on hold. You are on hold. You are on hold. You are on hold. You are on hold.
+SPEAKER_04
+633.95--686.5
+ I think you're patiently waiting. Are you still here? Yeah. Okay, I'm actually already reviewed the fair policy here with regards to the ticket. And upon checking that this is a non-refundable, ticket is non-refundable, and also changes are not permitted with regards to this ticket. And also upon checking that the ticket that you purchase is not also eligible for any flight credit if we're going to cancel this reservation. For some scenarios or for any circumstances that the airline will cancel your chip, you can call the airlines directly because they are the one who will have a control here with your ticket if they are the one who will cancel your reservation. Okay.
+SPEAKER_02
+686.5--688.9
+ Okay.
+SPEAKER_03
+688.9--697.0
+ So even if I get canceled by the airline, I can't get my money back.
