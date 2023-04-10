@@ -17,9 +17,14 @@ import time
 
 folder_path = r'C:\Users\sumit.shirole\Project\Sentiment_Project\input_cx'
 excel_path = r'C:\Users\sumit.shirole\Project\Sentiment_Project\output_cx\ouput_cx.xlsx'
+MODEL = f"cardiffnlp/twitter-xlm-roberta-base-sentiment"
 
-class sentiment_analysis:
-    
+class SentimentAnalysis():
+    def __init__(self, folder_path, excel_path, MODEL):
+        self.folder_path = folder_path
+        self.excel_path = excel_path
+        self.model = MODEL
+
     def extract_conversation(self,transcript):
         # remove speaker label and timestamp
         conversation = re.sub(r'SPEAKER_\d+\n\d+\.\d+--\d+\.\d+\n', '', transcript)
@@ -37,28 +42,30 @@ class sentiment_analysis:
         sentences = nltk.sent_tokenize(text)            # Sentence Tokenization
         return sentences
 
-    def sentiment(self,token_sent):
-        # print('inside sentiment')
-        MODEL = f"cardiffnlp/twitter-xlm-roberta-base-sentiment"
-
+    def sentiment_model(self):
         try:
             shutil.rmtree("cardiffnlp")
         except:
             pass
 
-        tokenizer = AutoTokenizer.from_pretrained(MODEL)
-        config = AutoConfig.from_pretrained(MODEL)
+        self.tokenizer = AutoTokenizer.from_pretrained(self.model)
+        self.config = AutoConfig.from_pretrained(self.model)
 
-        model = AutoModelForSequenceClassification.from_pretrained(MODEL)
-        model.save_pretrained(MODEL)
+        self.model = AutoModelForSequenceClassification.from_pretrained(self.model)
+        # self.model.save_pretrained(self.model)
         # print('model loaded')
+
+        return self.model
+    
+    def sentiment(self,token_sent):
+        # print('inside sentiment')
 
         sent_list = []
         for i in range(0, len(token_sent), 6):
             text = token_sent[i:i + 6]
             text = ' '.join(text)
-            encoded_input = tokenizer(text, return_tensors='pt', max_length=512, truncation='do_not_truncate')
-            output = model(**encoded_input)
+            encoded_input = self.tokenizer(text, return_tensors='pt', max_length=512, truncation='do_not_truncate')
+            output = self.model(**encoded_input)
             scores = output[0][0].detach().numpy()
             scores = softmax(scores)
 
@@ -66,7 +73,7 @@ class sentiment_analysis:
             ranking = np.argsort(scores)
             ranking = ranking[::-1]
             # list2.append(ranking)
-            l = config.id2label[ranking[j]]
+            l = self.config.id2label[ranking[j]]
             # s = scores[ranking[j]]
 
             if l == 'positive':
@@ -88,7 +95,7 @@ class sentiment_analysis:
         return normalized_value
     
 
-    def write_files_to_excel(self,folder_path, excel_path):
+    def write_files_to_excel(self):
         # Create a new Excel workbook
         wb = openpyxl.Workbook()
         # Select the active sheet
@@ -98,12 +105,14 @@ class sentiment_analysis:
         sheet.cell(row=1, column=2, value='Output')
         
         # Get a list of all the files in the folder
-        files = os.listdir(folder_path)
+        files = os.listdir(self.folder_path)
         # Loop over files in the folder
+        model = self.sentiment_model()
+        
         for i, file in tqdm(enumerate(files),desc="Processing", ncols=80):
             time.sleep(0.1)
             # Read the contents of the file
-            with codecs.open(os.path.join(folder_path, file), 'r',encoding='utf-8') as f:
+            with codecs.open(os.path.join(self.folder_path, file), 'r',encoding='utf-8') as f:
                 contents = f.read()
                 text_after_label = self.extract_conversation(contents)
                 tokenized_sentences = self.preprocess(text_after_label)
@@ -119,9 +128,9 @@ class sentiment_analysis:
             sheet.cell(row=i+2, column=2, value=var1_for_xsl)
             sheet.cell(row=i+2, column=3, value=sentiment_score_for_xsl)
         # Save the Excel file
-        wb.save(excel_path)
+        wb.save(self.excel_path)
 
 
 if __name__ == '__main__':
-    sent = sentiment_analysis()
-    sent.write_files_to_excel(folder_path, excel_path)
+    sent = SentimentAnalysis(folder_path,excel_path,MODEL)
+    sent.write_files_to_excel()
